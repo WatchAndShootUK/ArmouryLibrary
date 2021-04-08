@@ -52,11 +52,11 @@
       ]
     },
     "Images": [
-      "glock17.jpg",
+      "glock17",
       "Glock 17",
-      "glockholstered.jpg",
+      "glockholstered",
       "Glock 17 in British Army issued holster",
-      "glock2.jpg",
+      "glock2",
       "Glock 17"
     ],
     "Sights": [
@@ -169,9 +169,9 @@
       ]
     },
     "Images": [
-      "sa80a3.jpg",
+      "sa80a3",
       "The L85A3 SA80 rifle.",
-      "sa80a3ugl.jpg",
+      "sa80a3ugl",
       "SA80 A3 fitted with an Underslung Grenade Launcher (UGL) and Night Vision Sight (NVS)",
       "sa80llm.jpeg",
       "SA80 A3 fitted with a Lightweight Day Sight (LDS) & Laser Light Module (LLM) engaging targets on the range."
@@ -329,11 +329,11 @@
       ]
     },
     "Images": [
-      "sa80cadet2.jpg",
+      "sa80cadet2",
       "The L98A2 SA80 rifle",
-      "sa80cadet1.jpg",
+      "sa80cadet1",
       "A cadet fires his L98A2 rifle on the range",
-      "sa80cadet3.jpg",
+      "sa80cadet3",
       "The L98A2 SA80 rifle"
     ],
     "Sights": [
@@ -451,11 +451,11 @@
       ]
     },
     "Images": [
-      "sharpshooter1.jpg",
+      "sharpshooter1",
       "The L129A1 Sharpshooter rifle, fitted with ACOG L25A1",
-      "sharpshooter2.jpg",
+      "sharpshooter2",
       "A marksman aims his L129A1 during a live firing exercise",
-      "sharpshooter3.jpg",
+      "sharpshooter3",
       "Sharpshooter rifle fitted with the Magnum Universal Night Sight (MUNS)"
     ],
     "Sights": [
@@ -545,11 +545,11 @@
       ]
     },
     "Images": [
-      "gpmg1.jpg",
+      "gpmg1",
       "The General Purpose Machine Gun",
-      "gpmg2.jpg",
+      "gpmg2",
       "General Purpose Machine Gun being used in the sustained fire (SF) role",
-      "gpmg3.jpg",
+      "gpmg3",
       "A soldier carrying a light role (LR) GPMG"
     ],
     "Sights": [
@@ -651,11 +651,11 @@
       ]
     },
     "Images": [
-      "shotgun1.jpg",
+      "shotgun1",
       "The L74A1 combat shotgun",
-      "shotgun2.jpg",
+      "shotgun2",
       "The L74A1 being used by a soldier during jungle training",
-      "shotgun3.jpg",
+      "shotgun3",
       "A Special Forces operator using a modified L74A1 during Operations in the Middle-East"
     ],
     "Sights": [
@@ -724,11 +724,11 @@
       ]
     },
     "Images": [
-      "asm1.jpg",
+      "asm1",
       "The Anti-Structure munition",
-      "asm3.jpg",
+      "asm3",
       "US soldiers enter a mouse hole in a compound wall during Op Enduring Freedom (Afghanistan)",
-      "asm2.jpg",
+      "asm2",
       "A NATO soldier aims his ASM"
     ],
     "Sights": [
@@ -810,11 +810,11 @@
       ]
     },
     "Images": [
-      "nlaw1.jpg",
+      "nlaw1",
       "The Next-generation Light Anti-tank Weapon (NLAW)",
-      "nlaw2.jpg",
+      "nlaw2",
       "The NLAW is designed and manufactured by Saab & Thales",
-      "nlaw3.jpg",
+      "nlaw3",
       "A soldier fires his NLAW during a training exercise"
     ],
     "Sights": [
