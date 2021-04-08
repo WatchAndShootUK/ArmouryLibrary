@@ -1,0 +1,851 @@
+
+{
+  "L131A1": {
+    "Name": "Glock",
+    "Calibre": "0.9",
+    "Range": "50 metres",
+    "Designation": "L131A1",
+    "Description": "The L131A1 General Service Pistol is a compact, lightweight and accurate semi automatic pistol. It replaced the Browning and Sig Sauer 226 pistols that were previously in use. The L131A1, made by Glock is also referred to as the Glock-17. This is the standard issue pistol for the UK armed forces.",
+    "Drills": {
+      "Normal Safety Precautions (NSPs)": [
+        "Disengage the locking hood on the hoslter",
+        "Operate the holster lock and remove pistol from holster",
+        "Tilt the pistol the right and check to see if a magazine is fitted",
+        "If a magazine is fitted, press the magazine release catch and remove the magazine",
+        "Pull back the top slide and engage the slide stop lever",
+        "Check the body and chamber are clear of obstructions or rounds",
+        "If under instruction, wait for the words of command 'Return pistols'",
+        "Pull the top slide fully to the rear and allow to go forward under control",
+        "Ensure the muzzle is pointing in a safe direction",
+        "Operate the trigger",
+        "Return pistol to holster and engage the locking hood"
+      ],
+      "Functions Test": [
+        "Ensure no magazine is fitted",
+        "Cock the pistol",
+        "Operate the trigger",
+        "Cock the pistol under control, watch for the trigger returning to its forward position ",
+        "Check the trigger safety by applying lateral pressure to the trigger",
+        "Operate the trigger",
+        "Inspect magazines by inserting them into the pistol"
+      ],
+      "Load": [
+        "Draw pistol from holster",
+        "Remove magazine from pouch and ensure the top round is seated correctly",
+        "Insert the magazine into the magazine housing",
+        "Place pistol back into holster",
+        "Engage the locking hood"
+      ],
+      "Ready": [
+        "Draw pistol from holster",
+        "Cock the pistol",
+        "Ensure your trigger finger is resting on the trigger guard, not the trigger"
+      ],
+      "Unload": [
+        "Remove the magazine and place it away in your ammunition pouch",
+        "Pull back the top slide and engage the slide stop lever",
+        "Check the body and chamber are clear of obstructions or rounds",
+        "Operate the slide stop lever to allow the top slide to go forward",
+        "Operate the trigger",
+        "Place pistol into holster",
+        "Engage locking hood"
+      ]
+    },
+    "Images": [
+      "glock17.jpg",
+      "Glock 17",
+      "glockholstered.jpg",
+      "Glock 17 in British Army issued holster",
+      "glock2.jpg",
+      "Glock 17"
+    ],
+    "Sights": [
+      "Iron Sight"
+    ],
+    "Attachments": "There are no attachments available for the Glock 17.",
+    "Technical Data": {
+      "Calibre": "9mm",
+      "Length": "186mm",
+      "Magazine Capacity": "17 rounds",
+      "Trigger pressure": "2.5kg",
+      "Operation": "Recoil",
+      "Weight": "0.625kg"
+    },
+    "Stoppage Drills": {
+      "Immediate Action": [
+        "Look at the position of the slide, it will be in one of the following positions: Slide fully forward, slide partially forward or slide at the rear. "
+      ],
+      "Slide Fully Forward (Loose Magazine)": [
+        "Ensure the magazine is fitted correctly",
+        "Cock the pistol in a rapid motion",
+        "Resume firing"
+      ],
+      "Slide Partially Forward (Obstruction)": [
+        "Take cover",
+        "Pull the slide back and engage the slide lock lever",
+        "Inspect the body and chamber, if there is an obstruction attempt to shake it free ",
+        "If the obstruction does not come free then remove the magazine and clear the obstruction",
+        "Replace the magazine",
+        "Release the slide by operating the slide stop lever",
+        "Resume firing"
+      ],
+      "Slide at the Rear (Empty Magazine)": [
+        "Take cover",
+        "Operate the magazine release catch to remove the magazine",
+        "Fit fresh magazine into the magazine housing",
+        "Release the slide by pulling it rearwards and releasing",
+        "Resume firing"
+      ]
+    }
+  },
+  "L85A3": {
+    "Name": "SA80",
+    "Calibre": "5.56",
+    "Range": "The effective range of the L85A3 is 300 metres as an individual and 600 metres as a section.",
+    "Designation": "L85A3",
+    "Description": "The 5.56 mm Rifle L85A3 is a member of the SA80 series of assault rifles; built by H&K for the British Army. First introduced in 1984, the A3 variant was released in 2019. The L85A3 can be fitted with a number of different sights and attachments; it is the personal weapon of the British service person.",
+    "Drills": {
+      "Normal Safety Precautions (NSPs)": [
+        "Set the safety catch to 'S'",
+        "Set the change lever to 'R'",
+        "Pull the cocking handle to the rear and engage the holding up device",
+        "Inspect the face of the bolt, the body and the chamber",
+        "If under instruction, wait for the words of command 'Ease Springs'",
+        "Operate bolt release catch",
+        "Set the safety catch to 'F'",
+        "Operate the trigger",
+        "Set the safety catch to 'S'",
+        "Close the dust cover"
+      ],
+      "Functions Test": [
+        "Set the safety catch to 'S'",
+        "Set the change lever to 'R'",
+        "Cock the rifle",
+        "Attempt to operate trigger",
+        "Set the safety catch to 'F'",
+        "Operate the trigger and hold it in",
+        "Cock the rifle",
+        "Release the trigger and listen for the sear engaging",
+        "Operate the trigger",
+        "Set the change lever to 'A'",
+        "Cock the rifle",
+        "Operate the trigger and hold it in",
+        "Cock the weapon slowly, watch the hammer strike the rear of the bolt",
+        "Set the safety catch to 'S'",
+        "Set the change lever to 'R'",
+        "Close the dust cover"
+      ],
+      "Load": [
+        "Set the safety catch to 'S'",
+        "Open your ammunition pouch",
+        "Remove magazine from pouch",
+        "Ensure the top round is seated correctly",
+        "Fasten your ammunition pouch"
+      ],
+      "Ready": [
+        "Set the safety catch to 'S'",
+        "Set the change lever to 'R'",
+        "Ensure the sights are on the correct setting",
+        "Cock the rifle",
+        "Forward assist the cocking handle"
+      ],
+      "Unload": [
+        "Set safety catch to 'S'",
+        "Open your ammunition pouch",
+        "Press magazine release catch and remove magazine",
+        "Place magazine in ammunition pouch",
+        "Pull the cocking handle to the rear and engage the holding up device",
+        "Inspect the face of the bolt, the body and the chamber",
+        "Ensure there is no magazine is fitted to the rifle",
+        "Operate the bolt release catch",
+        "Set the safety catch to 'F'",
+        "Operate the trigger",
+        "Set the safety catch to 'S'",
+        "Set the change lever to 'R'",
+        "Ensure the sights are returned to base setting",
+        "Close the dust cover",
+        "Pick up the ejected round and place it back into the magazine",
+        "Fasten ammunition pouch"
+      ]
+    },
+    "Images": [
+      "sa80a3.jpg",
+      "The L85A3 SA80 rifle.",
+      "sa80a3ugl.jpg",
+      "SA80 A3 fitted with an Underslung Grenade Launcher (UGL) and Night Vision Sight (NVS)",
+      "sa80llm.jpeg",
+      "SA80 A3 fitted with a Lightweight Day Sight (LDS) & Laser Light Module (LLM) engaging targets on the range."
+    ],
+    "Sights": [
+      "Iron Sight",
+      "SUSAT",
+      "ACOG TA31",
+      "LDS",
+      "Kite (CWS)",
+      "Maxikite 2"
+    ],
+    "Attachments": "The L85A3 can be fitted with attachments to improve it's capability. The muzzle of the rifle can be fitted with a bayonet, for hand to hand combat with the enemy. The laser light module (LLM) can be fitted to the foregrip to more accurate Close Quarter Battle (CQB) engagements. The A3 also allows for an Underslung Grenade Launcher (UGL) to be attached.",
+    "Technical Data": {
+      "Calibre": "5.56mm",
+      "Weight": "3.7kg",
+      "Length": "773mm",
+      "Firing Modes": "Single shot and Automatic",
+      "Method of Operation": "Gas and spring",
+      "Feed": "Magazine",
+      "Muzzle Velocity": "930 metres per second",
+      "Recoil": "4.0 joules",
+      "Number of barrel grooves": "6.0",
+      "Pitch of rifling": "1mm turn in 180",
+      "Twist of rifling": "Right hand"
+    },
+    "Stoppage Drills": {
+      "Immediate Action": [
+        "If the rifle fails to fire, tilt the weapon to the left and look at the position of the cocking handle."
+      ],
+      "Cocking Handle Fully Forward": [
+        "Forward assist the cocking handle",
+        "Resume firing",
+        "If the weapon still fails to fire, cock the weapon and engage the holding up catch."
+      ],
+      "Loose Magazine": [
+        "Tilt the weapon to the right",
+        "Pull the cocking handle to the rear and engage the holding up device",
+        "If there are rounds in the magazine and no rounds in the body or chamber then ensure magazine is correctly fitted",
+        "Operate the bolt release catch",
+        "Forward assist the cocking handle",
+        "Resume firing"
+      ],
+      "Obstruction": [
+        "Tilt the rifle to the right",
+        "Cock the rifle and engage the holding up catch",
+        "If there is an obstruction, remove the magazine",
+        "Clear the obstruction",
+        "Tilt the weapon to the left and inspect the body and chamber to ensure there is no further obstruction",
+        "Replace magazine",
+        "Operate bolt release catch",
+        "Forward assist",
+        "Resume firing"
+      ],
+      "Empty Magazine": [
+        "Open your ammunition pouch",
+        "Press magazine release catch and remove magazine",
+        "Remove magazine from pouch",
+        "Ensure the top round is seated correctly",
+        "Insert the magazine firmly into the magazine housing",
+        "Fasten your ammunition pouch",
+        "Operate the bolt release catch",
+        "Forward assist the cocking handle",
+        "Resume Firing"
+      ]
+    }
+  },
+  "L98A2": {
+    "Name": "SA80 (Cadet)",
+    "Calibre": "5.56",
+    "Range": "The effective range of the L85A3 is 300 metres.",
+    "Designation": "L98A2",
+    "Description": "The Cadet Rifle is a member of the SA80 series of assault rifles; built by H&K for the British Army. First introduced in 1984. It is fitted with the standard iron sight and only operates in semi-automatic mode. There is a .22 adapter kit for use on indoor ranges.",
+    "Drills": {
+      "Normal safety precautions (NSPs)": [
+        "Set the safety catch to 'S'",
+        "Pull the cocking handle to the rear and engage the holding up device",
+        "Inspect the face of the bolt, the body and the chamber",
+        "If under instruction, wait for the words of command 'Ease Springs'",
+        "Operate bolt release catch",
+        "Set the safety catch to 'F'",
+        "Operate the trigger with an aimed shot",
+        "Set the safety catch to 'S'",
+        "Close the dust cover"
+      ],
+      "Picking up an unattended weapon": [
+        "Set the safety catch to 'S'",
+        "Open ammunition pouch (if magazine is fitted)",
+        "Remove the magazine and place into ammunition pouch",
+        "Fasten ammunition pouch",
+        "Cock the weapon and engage the holding up catch",
+        "Carry out 7 point check",
+        "Operate bolt release catch",
+        "Set the safety catch to 'F'",
+        "Operate the trigger with an aimed shot",
+        "Set the safety catch to 'S'",
+        "Close the dust cover"
+      ],
+      "Handing over a weapon": [
+        "Set the safety catch to 'S'",
+        "Pull the cocking handle to the rear and engage the holding up device",
+        "Inspect the face of the bolt, the body and the chamber",
+        "State that the weapon is 'clear'",
+        "Recipient of the rifle confirms the rifle is 'clear'",
+        "Operate bolt release catch",
+        "Set the safety catch to 'F'",
+        "Operate the trigger with an aimed shot",
+        "Set the safety catch to 'S'",
+        "Close the dust cover",
+        "Hand over the rifle"
+      ],
+      "Functions test": [
+        "Set the safety catch to 'S'",
+        "Cock the rifle",
+        "Forward assist",
+        "Attempt to operate trigger",
+        "Set the safety catch to 'F'",
+        "Operate the trigger and hold it in",
+        "Cock the rifle",
+        "Forward assist",
+        "Release the trigger and listen for the sear engaging",
+        "Operate the trigger",
+        "Set the safety catch to 'S'",
+        "Close the dust cover"
+      ],
+      "Load": [
+        "Set the safety catch to 'S'",
+        "Open your ammunition pouch",
+        "Remove magazine from pouch",
+        "Ensure the top round is seated correctly",
+        "Fasten your ammunition pouch"
+      ],
+      "Ready": [
+        "Set the safety catch to 'S'",
+        "Ensure the sights are on the correct setting",
+        "Cock the rifle",
+        "Forward assist the cocking handle"
+      ],
+      "Unload": [
+        "Set safety catch to 'S'",
+        "Open your ammunition pouch",
+        "Press magazine release catch and remove magazine",
+        "Place magazine in ammunition pouch",
+        "Pull the cocking handle to the rear and engage the holding up device",
+        "Inspect the face of the bolt, the body and the chamber",
+        "Ensure there is no magazine is fitted to the rifle",
+        "Operate the bolt release catch",
+        "Set the safety catch to 'F'",
+        "Operate the trigger",
+        "Set the safety catch to 'S'",
+        "Ensure the sights are returned to base setting",
+        "Close the dust cover",
+        "Pick up the ejected round and place it back into the magazine",
+        "Fasten ammunition pouch"
+      ]
+    },
+    "Images": [
+      "sa80cadet2.jpg",
+      "The L98A2 SA80 rifle",
+      "sa80cadet1.jpg",
+      "A cadet fires his L98A2 rifle on the range",
+      "sa80cadet3.jpg",
+      "The L98A2 SA80 rifle"
+    ],
+    "Sights": [
+      "Iron Sight"
+    ],
+    "Attachments": "There are no attachments for the SA80 L98A2.",
+    "Technical Data": {
+      "Calibre": "5.56mm",
+      "Weight": "3.7kg",
+      "Length": "773mm",
+      "Firing Modes": "Single shot",
+      "Method of Operation": "Gas and spring",
+      "Feed": "Magazine",
+      "Muzzle Velocity": "930 metres per second",
+      "Recoil": "4.0 joules",
+      "Number of barrel grooves": "6.0",
+      "Pitch of rifling": "1mm turn in 180",
+      "Twist of rifling": "Right hand"
+    },
+    "Stoppage Drills": {
+      "Immediate Action": [
+        "Set the safety catch to 'S'",
+        "Tilt the weapon to the left and look at the position of the cocking handle."
+      ],
+      "Cocking Handle Fully Forward": [
+        "Forward assist the cocking handle",
+        "Set the safety catch to 'F'",
+        "Resume firing",
+        "If the weapon still fails to fire, cock the weapon and engage the holding up catch."
+      ],
+      "Loose Magazine": [
+        "Tilt the weapon to the right",
+        "Pull the cocking handle to the rear and engage the holding up device",
+        "If there are rounds in the magazine and no rounds in the body or chamber then ensure magazine is correctly fitted",
+        "Operate the bolt release catch",
+        "Forward assist the cocking handle",
+        "Set the safety catch to 'F'",
+        "Resume firing"
+      ],
+      "Obstruction": [
+        "Tilt the rifle to the right",
+        "Cock the rifle and engage the holding up catch",
+        "If there is an obstruction, remove the magazine",
+        "Clear the obstruction",
+        "Tilt the weapon to the left and inspect the body and chamber to ensure there is no further obstruction",
+        "Replace magazine",
+        "Operate bolt release catch",
+        "Forward assist",
+        "Set the safety catch to 'F'",
+        "Resume firing"
+      ],
+      "Empty Magazine": [
+        "Open your ammunition pouch",
+        "Press magazine release catch and remove magazine",
+        "Remove magazine from pouch",
+        "Ensure the top round is seated correctly",
+        "Insert the magazine firmly into the magazine housing",
+        "Fasten your ammunition pouch",
+        "Operate the bolt release catch",
+        "Forward assist the cocking handle",
+        "Set the safety catch to 'F'",
+        "Resume Firing"
+      ]
+    }
+  },
+  "L129A1": {
+    "Name": "Sharpshooter Rifle",
+    "Calibre": "7.62",
+    "Range": "Accurate fire out to 600 metres, supressing fire out to 800 metres.",
+    "Designation": "L129A1",
+    "Description": "The 7.62 mm Sharpshooter Assault Rifle, based on the AR-15, provides quick and precision fire at point targets beyond that of normal issued section and personal weapons. It gives the infantry section the firepower to engage targets out to 800 metres.",
+    "Drills": {
+      "Normal Safety Precautions (NSPs)": [
+        "Pull the cocking handle to the rear",
+        "Push in the bolt release catch",
+        "Push the cocking handle fully forward",
+        "Check the bolt, body and chamber are clear of any obstructions or rounds",
+        "If under instruction, wait for the words of command 'Ease Springs'",
+        "Operate the bolt release catch",
+        "Operate the trigger",
+        "Close the ejection opening"
+      ],
+      "Functions Test": [
+        "Cock the rifle",
+        "Set the safety catch to 'S'",
+        "Attempt to operate the trigger",
+        "Set the safety catch to 'F'",
+        "Operate the trigger and keep it depressed",
+        "Cock the rifle",
+        "Release the trigger and listen for the safety sear engaging",
+        "Operate the trigger",
+        "Close the ejection opening"
+      ],
+      "Load": [
+        "Unfasten ammunition pouch",
+        "Remove magazine from pouch and ensure the top round is seated correctly",
+        "Insert the magazine into the magazine housing",
+        "Fasten ammunition pouch"
+      ],
+      "Ready": [
+        "Cock the rifle",
+        "Set the safety catch to 'S'"
+      ],
+      "Unload": [
+        "Attempt to set the safety catch to 'S'",
+        "Operate the magazine release catch to remove the magazine",
+        "Place magazine away in ammunition pouch",
+        "Pull the cocking handle to the rear and push in the bolt release catch",
+        "Push the cocking handle forward and tily the rifle to the left",
+        "Inspect the bolt, body and chamber for any ammunition. Ensure there is no magazine fitted",
+        "Operate the bolt release catch",
+        "Set the safety catch to 'F'",
+        "Operate the trigger",
+        "Close the ejection opening"
+      ]
+    },
+    "Images": [
+      "sharpshooter1.jpg",
+      "The L129A1 Sharpshooter rifle, fitted with ACOG L25A1",
+      "sharpshooter2.jpg",
+      "A marksman aims his L129A1 during a live firing exercise",
+      "sharpshooter3.jpg",
+      "Sharpshooter rifle fitted with the Magnum Universal Night Sight (MUNS)"
+    ],
+    "Sights": [
+      "ACOG TA648",
+      "Magnum Universal Night Sight (MUNs)"
+    ],
+    "Attachments": "The L129A1 Sharpshooter can be fitted with bipid legs and  fold down hand grip. It can also be fitted with a bayonet adapter for use in hand to hand combat.",
+    "Technical Data": {
+      "Calibre": "7.62mm",
+      "Length": "945mm",
+      "Barrel Length": "406mm",
+      "Weight (weapon)": "5kg",
+      "Firing mode": "Semi-Automatic",
+      "Feed": "Magazine",
+      "Muzzle velocity": "754m/s",
+      "Method of operation": "Gas"
+    },
+    "Stoppage Drills": {
+      "Immediate action": [
+        "Tilt the weapon to the left and look at the position of the bolt.",
+        "If the bolt is in any position other than fully to the rear, cock the rifle and push in the bolt release catch."
+      ],
+      "Loose magazine": [
+        "Ensure the magazine is fitted correctly",
+        "Operate bolt release catch",
+        "Resume firing"
+      ],
+      "Obstruction": [
+        "Remove the magazine",
+        "Clear the obstruction",
+        "Replace the magazine",
+        "Operate the bolt release catch",
+        "Resume firing"
+      ],
+      "Empty Magazine": [
+        "Change the magazine",
+        "Operate the bolt release catch",
+        "Resume firing"
+      ]
+    }
+  },
+  "L7A2": {
+    "Name": "GPMG",
+    "Calibre": "7.62",
+    "Range": "The range of the GPMG is 800 metres in the light role and 1800 metres in the sustained fire (tripod mounted) role.",
+    "Designation": "L7A2",
+    "Description": "The 7.62 mm machine gun is designed for general purposes. It can be used either as a light machine gun fired from a bipod, or be fired from a tripod and used in the sustained fire role. It may also be fired from a vehicle mounting at ground and air targets.",
+    "Drills": {
+      "Normal Safety Precautions (NSPs)": [
+        "Open the top cover",
+        "Cock the gun & push the cocking handle forward",
+        "Lift the feed tray",
+        "Inspect the body & chamber for any obstruction or rounds",
+        "If under instructor, wait for the command to 'Ease springs'",
+        "Lower the feed tray",
+        "Close the top cover",
+        "Hold the cocking handle and operate the trigger",
+        "Allow the cocking handle to go forward under control",
+        "Close the ejection opening"
+      ],
+      "Functions Test": [
+        "Cock the gun",
+        "Set the safety catch to 'S'",
+        "Attempt to operate the trigger",
+        "Set the safety catch to 'F'",
+        "Operate the trigger",
+        "Close the ejection opening"
+      ],
+      "Load": [
+        "Tilt the gun to the right",
+        "Open the top cover",
+        "Place the belt onto the feed tray, tight against the cartridge stop",
+        "Close the top cover"
+      ],
+      "Ready / Range being ordered": [
+        "Set the sights to the correct range",
+        "Cock the gun"
+      ],
+      "Unload": [
+        "Cock the gun & push the cocking handle forward",
+        "Open the top cover",
+        "Remove the belt & clear the feed tray of empty links",
+        "Close the top cover",
+        "Safety catch to 'F'",
+        "Operate the trigger (a round may fire)",
+        "Close ejection opening"
+      ]
+    },
+    "Images": [
+      "gpmg1.jpg",
+      "The General Purpose Machine Gun",
+      "gpmg2.jpg",
+      "General Purpose Machine Gun being used in the sustained fire (SF) role",
+      "gpmg3.jpg",
+      "A soldier carrying a light role (LR) GPMG"
+    ],
+    "Sights": [
+      "Iron Sight",
+      "SUSAT",
+      "Kite (CWS)",
+      "Maxikite 2",
+      "C2A2 Support Weapon Sight"
+    ],
+    "Attachments": "The GPMG can be mounted on a tripod or vehicle mount to improve accurate and aim. An ammunition drum can also be fitted to the exterior of the gun.",
+    "Technical Data": {
+      "Calibre": "7.62mm",
+      "Length": "1.230m",
+      "Weight (weapon)": "10.9kg",
+      "Weight (loaded)": "13.58kg",
+      "Feed": "Belt",
+      "Muzzle velocity": "538m/s",
+      "Rate of fire": "750rds/min"
+    },
+    "Stoppage Drills": {
+      "Immediate action": [
+        "Cock the gun",
+        "Open the top cover & clear the feed tray",
+        "Close the top cover",
+        "Raise the butt into the shoulder & operate the trigger (A round may be fired)",
+        "Open the top cover and re-load the belt",
+        "Cock the gun",
+        "Resume engagement"
+      ],
+      "Gun cannot be cocked": [
+        "Pull the cocking handle back as far as it will go",
+        "Hook the thumb into the trigger guard to hold it",
+        "Open the top cover",
+        "Remove the belt & clear the feed tray",
+        "Close the top cover",
+        "Complete the cocking action",
+        "Raise the butt into the shoulder and operate the trigger (a round may be fired)",
+        "Reload the gun",
+        "Resume engagement"
+      ],
+      "Gas stoppage": [
+        "Cock the gun",
+        "Set the safety catch to 'S'",
+        "Crawl forwards and open the gas regulator three clicks",
+        "Return to the butt of the gun, lift the butt into the shoulder",
+        "Set the safety catch to 'F'",
+        "Resume engagement"
+      ]
+    }
+  },
+  "L74A1": {
+    "Name": "Combat Shotgun",
+    "Calibre": "18.4",
+    "Range": "Accurate buckshot fire up to 40 metres, the maximum effective range with solid shot is 130 metres.",
+    "Designation": "L74A1",
+    "Description": "The L74 Combat Shotgun is a modified Remington 870 Wingmaster. The pump action Shotgun is an excellent weapon for close quarter engagement and fighting in complex terrain.",
+    "Drills": {
+      "Normal Safety Precautions (NSPs)": [
+        "Set the safety catch to 'S'",
+        "Rack the shotgungun to rear ",
+        "Inspect the body, chamber and breech to ensure there are no obstructions or cartridges. ",
+        "Ensure the face of the magazine housing is clear (showing red)",
+        "Rack the shotgun forward",
+        "Set the safety catch to 'F'",
+        "Point the shotgun in a safe direction and operate the trigger",
+        "Set the safety catch to 'S'",
+        "Operate the trigger"
+      ],
+      "Functions Test": [
+        "Set the safety catch to 'F'",
+        "Operate the trigger",
+        "Rack the shotgun",
+        "Set the safety catch to 'S'",
+        "Attempt to operate the trigger",
+        "Set the safety catch to 'F'",
+        "Operate the trigger"
+      ],
+      "Load": [
+        "Set the safety catch to 'S'",
+        "Rack the shotgun & check the magazine and chamber and free of cartridges",
+        "Set the safety catch to F",
+        "Operate the trigger",
+        "Set the safety catch to 'S'",
+        "Load each cartridge into the magazine tube until full"
+      ],
+      "Ready": [
+        "Set the safety catch to 'S'",
+        "Rack the shotgun"
+      ],
+      "Unload": [
+        "Set the safety catch to 'S'",
+        "Disengage the action bar lock by pressing it in",
+        "Rack the shotgun until all cartridges have been ejected from the magazine",
+        "Inspect the chamber & face of the magazine, ensure there are no cartridges present",
+        "Slide the rack forward",
+        "Set the safety catch to 'F'",
+        "Operate the trigger",
+        "Set the safety catch to 'S'"
+      ]
+    },
+    "Images": [
+      "shotgun1.jpg",
+      "The L74A1 combat shotgun",
+      "shotgun2.jpg",
+      "The L74A1 being used by a soldier during jungle training",
+      "shotgun3.jpg",
+      "A Special Forces operator using a modified L74A1 during Operations in the Middle-East"
+    ],
+    "Sights": [
+      "Iron Sight"
+    ],
+    "Attachments": "There are no attachments for the L74 Combat Shotgun.",
+    "Technical Data": {
+      "Calibre": "18.4mm",
+      "Length": "1100m",
+      "Weight (weapon)": "3.8kg",
+      "Feed": "Tubular magazine",
+      "Method of operation": "Pump action"
+    },
+    "Stoppage Drills": {
+      "Immediate action": [
+        "Rack the shotgun",
+        "Resume engagment",
+        "If the shotgun fails to fire, set the safety catch to 'S' and rack the shotgun"
+      ],
+      "Empty Magazine": [
+        "Load the shotgun magazine until it is full",
+        "Set the safety catch to 'F'",
+        "Resume engagement"
+      ],
+      "Obstruction": [
+        "Clear the obstruction",
+        "Resume engagement"
+      ]
+    }
+  },
+  "ASM": {
+    "Name": "Anti Structure Munition",
+    "Calibre": "90",
+    "Range": "The maximum range of the ASM is 600 metres with an effective range of 400 metres. ",
+    "Designation": "ASM",
+    "Description": "The Anti-Structure Munition (ASM) is a modified version of the Israeli MATADOR shoulder launched anti tank weapon. It has two methods of engagement: Blast for destroying structures or Mouse Hole for forced entry. It is a one use, fire and forget weapon.",
+    "Drills": {
+      "Normal safety precautions (NSPs)": [
+        "Set the safety lever to 'S'",
+        "Ensure the pistol grip is folded away",
+        "Ensure the front grip & shoulder rest are folded away",
+        "Ensure the mode selector is set to 'M'",
+        "Check the front and rear seals are intact",
+        "Check the body of the weapon for damage"
+      ],
+      "Ready to fire": [
+        "Select the operating mode",
+        "Unfold the shoulder rest",
+        "Unfold the front grip ",
+        "Check the back-blast area is clear",
+        "Place the weapon on the right shoulder",
+        "Unfold the sight",
+        "Unfold the pistol grip"
+      ],
+      "Change firing mode": [
+        "Set the safety lever to 'S'",
+        "Rotate the mode selector to the correct mode",
+        "Fault check the switch position with the graphic"
+      ],
+      "Make safe": [
+        "Pull down and push the pistol grip until folded ",
+        "Ensure the safety lever has returned to the 'S' position",
+        "Close the sight and remove from shoulder",
+        "Close down the front grip and shoulder rest",
+        "Ensure the mode selector switch is to the 'M' position"
+      ]
+    },
+    "Images": [
+      "asm1.jpg",
+      "The Anti-Structure munition",
+      "asm3.jpg",
+      "US soldiers enter a mouse hole in a compound wall during Op Enduring Freedom (Afghanistan)",
+      "asm2.jpg",
+      "A NATO soldier aims his ASM"
+    ],
+    "Sights": [
+      "Telescopic Sight"
+    ],
+    "Attachments": "The ASM can have a Laser Light Module (LLM) attached for firing at night.",
+    "Technical Data": {
+      "Calibre": "90mm",
+      "Length": "1000m",
+      "Weight (weapon)": "10kg",
+      "Method of operation": "Blast & Mousehole",
+      "Feed system": "Disposable",
+      "Muzzle Velocity": "250 metres per second"
+    },
+    "Stoppage Drills": {
+      "Misfire Drill": [
+        "Keep the weapon aimed at the target",
+        "Pull down and push the pistol grip until folded ",
+        "Ensure the safety lever has returned to the 'S' position",
+        "Wait 5 seconds",
+        "Unfold the pistol grip",
+        "Set the safety lever to 'F'",
+        "Re-establish aim",
+        "Fire the weapon"
+      ],
+      "Still Fails to Fire": [
+        "Keep the weapon aimed at the target",
+        "Pull down and push the pistol grip until folded ",
+        "Ensure the safety lever has returned to the 'S' position",
+        "Close the sight",
+        "Remove the weapon from the shoulder",
+        "Close the front grip & shoulder rest",
+        "Place the weapon down, pointing towards enemy",
+        "Wait for 30 minutes",
+        "Dispose of the weapon as a misfire"
+      ]
+    }
+  },
+  "K107A1": {
+    "Name": "NLAW",
+    "Calibre": "150",
+    "Range": "The maximum range of the NLAW is 600m for static targets and 400m for moving targets.",
+    "Designation": "NLAW",
+    "Description": "The Next-generation Light Anti-tank Weapon (NLAW) is a shoulder launched infantry weapon designed to take out armoured vehicles. The NLAW gives every infanteer protection from enemy MBTs with an easy to use, short range, anti-tank weapon.",
+    "Drills": {
+      "Normal safety precautions (NSPs)": [
+        "Lock the transport safety",
+        "Ensure the safety catch is in the 'S' position",
+        "Ensure the orange ring on the trigger is showing",
+        "Set the range selector to 20m",
+        "Set the attack mode to 'OTA'",
+        "Check that the front and rear seals & covers are intact",
+        "Check of the body of weapon for damage"
+      ],
+      "Tank action": [
+        "Conduct NSPs",
+        "Set the attack mode to the setting required",
+        "Check the back-blast area is clear",
+        "Unfold the shoulder rest",
+        "Place the weapon on the shoulder",
+        "Unfold the sight",
+        "Unfold the firing support",
+        "Unlock the transport safety"
+      ],
+      "Change firing mode": [
+        "Set the safety lever to 'S'",
+        "Rotate the mode selector to the correct mode",
+        "Fault check the switch position with the graphic"
+      ],
+      "Make safe": [
+        "Set the safety catch to 'S'",
+        "Lock the transport safety",
+        "Lower the sights",
+        "Stow the firing support",
+        "Remove from the shoulder ",
+        "Fold away the shoulder rest",
+        "Set the range selector is set to 20",
+        "Set the attack mode to 'OTA'"
+      ]
+    },
+    "Images": [
+      "nlaw1.jpg",
+      "The Next-generation Light Anti-tank Weapon (NLAW)",
+      "nlaw2.jpg",
+      "The NLAW is designed and manufactured by Saab & Thales",
+      "nlaw3.jpg",
+      "A soldier fires his NLAW during a training exercise"
+    ],
+    "Sights": [
+      "ACOG TA47",
+      "Iron Sight",
+      "Kite (CWS)"
+    ],
+    "Attachments": "There are no known attachments for the NLAW.",
+    "Technical Data": {
+      "Calibre": "150mm",
+      "Length": "1016mm",
+      "Weight (weapon)": "12.5kg",
+      "Attack modes": "Direct & Overfly Top Attack",
+      "Feed system": "Disposable",
+      "Muzzle Velocity": "40 metres/second"
+    },
+    "Stoppage Drills": {
+      "Misfire Drill": [
+        "Release the activator",
+        "Re-acquire the target",
+        "Operate the trigger"
+      ],
+      "Still Fails to Fire": [
+        "Keep the weapon aimed at the target",
+        "Set the safety to 'S'",
+        "Lock the transport safety",
+        "Wait 2 minutes",
+        "Remove the external battery",
+        "Wait 30 minutes",
+        "Dispose of the weapon as a misfire"
+      ]
+    }
+  }
+}
