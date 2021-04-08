@@ -1,11 +1,11 @@
 {
   "Iron Sight": {
-    "Image": "ironsights.jpg",
+    "Image": "ironsights",
     "Description": "An iron sight consist of a rear aperture and a fore sight. By aligning the blade of the fore sight with the rear opening the weapon will point at the target. ",
     "Magnification": "Nil"
   },
   "SUSAT": {
-    "Image": "susat.jpg",
+    "Image": "susat",
     "Description": "The Sight Unit Small Arms, or SUSAT, is a telescopic sight with tritium-powered illumination, utilised at dusk or dawn. The full name of the current model is the SUSAT L12A1.",
     "Magnification": "x4",
     "Weight": "417g",
@@ -14,21 +14,21 @@
     "Field of view": "10 degrees (177 mils)"
   },
   "ACOG TA31": {
-    "Image": "acog31.jpg",
+    "Image": "acog31",
     "Description": "Manufactured by Trijicon, the Advanced Combat Optical Gunsight (ACOG) TA01 is an improvement on the previously used SUSAT. ",
     "Magnification": "x4",
     "Weight": "396 g",
     "Length": "203 mm"
   },
   "LDS": {
-    "Image": "lds.jpg",
+    "Image": "lds",
     "Description": "The Lightweight Combat Optical Daysight (LDS) by ELCAN is a rugged sight designed for 5.56 NATO standard light arms (e.g. SA80, C7, M4). The LDS utilizes the superior optics and mechanics of the commercially available SpecterDR by ELCAN. The SpecterOS4x is a fixed 4x magnification optical sight with a large exit pupil and long 70mm eye relief. The bright, high resolution 4-power optics provide optimum target acquisition and identification.",
     "Magnification": "x4",
     "Weight": "XXX",
     "Length": "YYY"
   },
   "Maxikite 2": {
-    "Image": "maxikite.jpg",
+    "Image": "maxikite",
     "Description": "Designed by Excelitas, the Maxikite II is a weapon mounted image intensifier designed to be mounted on long range rifles and support weapons. It provides vision out to 4500m, dependant on millilux levels.",
     "Night vision type": "Image Intensifier",
     "Magnification": "x5",
@@ -40,7 +40,7 @@
     "Length": "400mm"
   },
   "Kite (CWS)": {
-    "Image": "kite.jpg",
+    "Image": "kite",
     "Description": "The Kite, made by Excelitas, is an image intensifying weapon sight designed for use on small arms weapons. The Kite II, designated as the CWS in the British Army has been replaced by the much improved Maxikite.",
     "Night vision type": "Image Intensifier",
     "Magnification": "x4",
@@ -50,19 +50,19 @@
     "Length": "210mm"
   },
   "ACOG TA648": {
-    "Image": "acog648.jpg",
+    "Image": "acog648",
     "Description": "The ACOG TA648 is issued with the Sharpshooter rifle. The sight was designed for use with machine guns engaging targets beyond 800 metres. It has better magnification than the SA80 variant and is fitted with a red dot Close Quarter Battle (CQB) sight.",
     "Magnification": "6x48",
     "Weight": "513.1 g",
     "Length": "152.4 mm"
   },
   "ACOG TA47": {
-    "Image": "acog47.jpg",
+    "Image": "acog47",
     "Description": "The ACOG TA47 is a lightweight and compact sight made by Trijicon. It has x2 magnification and is robust enough to endure the rigours required for an infantry battle sight. It is used on the NLAW and is zeroed during manufacture, meaning the sight never has to be adjusted. ",
     "Magnification": "2.5x20"
   },
   "Magnum Universal Night Sight (MUNs)": {
-    "Image": "muns.jpg",
+    "Image": "muns",
     "Description": "The MilSight S135 MUNS is a high-resolution clip-on night vision weapon sight that mounts on any MIL-STD-1913 Picatinny rail interface forward of an existing scope, adding night vision capabilities to daytime target acquisition platforms. The sight allows snipers to detect and recognize man-size targets more than 800 meters. Designed for medium and long-range engagements, S135 MUNS can image IR pointers to allow target pointing and handoff with teammates for rapid, coordinated engagement.",
     "Magnification": "Up to x20",
     "Night vision type": "Image Intensifier",
@@ -74,7 +74,7 @@
     "Battery life": "50 hours"
   },
   "C2A2 Support Weapon Sight": {
-    "Image": "c2a2.jpg",
+    "Image": "c2a2",
     "Description": "Sight Unit C2A2 Cased is a rugged sighting system designed for use with mortars and machine guns in the indirect and direct role. The Sight Unit C2A2 Cased system consists of a C2A1 Sight Unit, lightweight synthetic sight case and accessories."
   }
 }
