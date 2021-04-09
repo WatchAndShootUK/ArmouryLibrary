@@ -76,5 +76,9 @@
   "C2A2 Support Weapon Sight": {
     "Image": "c2a2",
     "Description": "Sight Unit C2A2 Cased is a rugged sighting system designed for use with mortars and machine guns in the indirect and direct role. The Sight Unit C2A2 Cased system consists of a C2A1 Sight Unit, lightweight synthetic sight case and accessories."
+  },
+  "Telescopic Sight": {
+    "Image": "telsight",
+    "Description": "The telescopic sight is a proven sight as used on the G36 rifle that is in service in the German army. The optics are made by the German company, Carl Zeiss Optronics. The ASM sight has a very rigid mounting to the launch tube, which is fully aligned during manufacture."
   }
 }
