@@ -97,144 +97,103 @@
       ]
     }
   },
-  "L85A3": {
-    "Name": "SA80",
-    "Calibre": "5.56",
-    "Range": "The effective range of the L85A3 is 300 metres as an individual and 600 metres as a section.",
-    "Designation": "L85A3",
-    "Description": "The 5.56 mm Rifle L85A3 is a member of the SA80 series of assault rifles; built by H&K for the British Army. First introduced in 1984, the A3 variant was released in 2019. The L85A3 can be fitted with a number of different sights and attachments; it is the personal weapon of the British service person.",
+  "Scorpion": {
+    "Name": "Cadet Air Rifle",
+    "Calibre": ".177",
+    "Range": "10m",
+    "Designation": "BSA Scorpion",
+    "Description": "The BSA Scorpion .177 Air Rifle is a bolt operated, magazine fed weapon developed specifically to meet the needs of British Military Cadet Force. It is used as a training weapon and for competition.",
     "Drills": {
-      "Normal Safety Precautions (NSPs)": [
+      "Normal safety precautions (NSPs)": [
         "Set the safety catch to 'S'",
-        "Set the change lever to 'R'",
-        "Pull the cocking handle to the rear and engage the holding up device",
-        "Inspect the face of the bolt, the body and the chamber",
-        "If under instruction, wait for the words of command 'Ease Springs'",
-        "Operate bolt release catch",
+        "Open the bolt",
+        "Move the magazine catch forwards and remove the magazine",
+        "Inspect the face of the bolt, body and chamber",
+        "On the word of command 'Ease Springs'",
+        "Close the bolt",
         "Set the safety catch to 'F'",
         "Operate the trigger",
         "Set the safety catch to 'S'",
-        "Close the dust cover"
+        "Inspect the magazine and ensure it is clear",
+        "Place the magazine next to the weapon"
       ],
-      "Functions Test": [
+      "Rodding the weapon": [
         "Set the safety catch to 'S'",
-        "Set the change lever to 'R'",
-        "Cock the rifle",
-        "Attempt to operate trigger",
+        "Open the bolt",
+        "Move the magazine catch forwards and remove the magazine",
+        "Inspect the face of the bolt, body and chamber",
+        "Insert a cleaning rod into the barrel from the muzzle until it can be observed in the breach",
+        "Remove the rod",
+        "Close the bolt",
         "Set the safety catch to 'F'",
-        "Operate the trigger and hold it in",
-        "Cock the rifle",
-        "Release the trigger and listen for the sear engaging",
         "Operate the trigger",
-        "Set the change lever to 'A'",
-        "Cock the rifle",
-        "Operate the trigger and hold it in",
-        "Cock the weapon slowly, watch the hammer strike the rear of the bolt",
-        "Set the safety catch to 'S'",
-        "Set the change lever to 'R'",
-        "Close the dust cover"
+        "Set the safety catch to 'S'"
       ],
       "Load": [
         "Set the safety catch to 'S'",
-        "Open your ammunition pouch",
-        "Remove magazine from pouch",
-        "Ensure the top round is seated correctly",
-        "Fasten your ammunition pouch"
+        "Open the bolt",
+        "Ensure the magazine release catch is fully forward",
+        "Ensure the top pellet is seated correctly in the magazine",
+        "Place magazine into magazine housing",
+        "Push the magazine release catch to the rear",
+        "Ensure the magazine is fitted correctly with the screw facing towards the rear"
       ],
       "Ready": [
         "Set the safety catch to 'S'",
-        "Set the change lever to 'R'",
-        "Ensure the sights are on the correct setting",
-        "Cock the rifle",
-        "Forward assist the cocking handle"
+        "Push the bolt forwards",
+        "The trigger finger is to remain on the outside of the trigger guard"
       ],
       "Unload": [
         "Set safety catch to 'S'",
-        "Open your ammunition pouch",
-        "Press magazine release catch and remove magazine",
-        "Place magazine in ammunition pouch",
-        "Pull the cocking handle to the rear and engage the holding up device",
-        "Inspect the face of the bolt, the body and the chamber",
-        "Ensure there is no magazine is fitted to the rifle",
-        "Operate the bolt release catch",
+        "Open the bold",
+        "push magazine release catch forwards and remove magazine",
+        "Inspect the bolt, body and chamber and ensure there are no pellets inside",
+        "Push the bolt forward",
         "Set the safety catch to 'F'",
-        "Operate the trigger",
+        "Operate the trigger, a pellet may be fired",
         "Set the safety catch to 'S'",
-        "Set the change lever to 'R'",
-        "Ensure the sights are returned to base setting",
-        "Close the dust cover",
-        "Pick up the ejected round and place it back into the magazine",
-        "Fasten ammunition pouch"
+        "Remove any unfired pellets from the magazine"
       ]
     },
     "Images": [
-      "sa80a3",
-      "The L85A3 SA80 rifle.",
-      "sa80a3ugl",
-      "SA80 A3 fitted with an Underslung Grenade Launcher (UGL) and Night Vision Sight (NVS)",
-      "sa80llm",
-      "SA80 A3 fitted with a Lightweight Day Sight (LDS) & Laser Light Module (LLM) engaging targets on the range."
+      "scorpion1",
+      "Cadets fire their .177 Scorpions",
+      "scorpion2",
+      "The BSA Scorpion Cadet Air Rifle",
+      "scorpion3",
+      "A cadet fires his rifle on the range"
     ],
     "Sights": [
-      "Iron Sight",
-      "SUSAT",
-      "ACOG TA31",
-      "LDS",
-      "Kite (CWS)",
-      "Maxikite 2"
+      "Iron Sight"
     ],
-    "Attachments": "The L85A3 can be fitted with attachments to improve it's capability. The muzzle of the rifle can be fitted with a bayonet, for hand to hand combat with the enemy. The laser light module (LLM) can be fitted to the foregrip to more accurate Close Quarter Battle (CQB) engagements. The A3 also allows for an Underslung Grenade Launcher (UGL) to be attached.",
+    "Attachments": "There are no attachments for the BSA Scorpion",
     "Technical Data": {
-      "Calibre": "5.56mm",
-      "Weight": "3.7kg",
-      "Length": "773mm",
-      "Firing Modes": "Single shot and Automatic",
-      "Method of Operation": "Gas and spring",
+      "Calibre": ".177",
+      "Weight": "1.5kg",
+      "Length": "400mm",
+      "Firing Modes": "Single shot",
+      "Method of Operation": "Air & spring",
       "Feed": "Magazine",
-      "Muzzle Velocity": "930 metres per second",
-      "Recoil": "4.0 joules",
-      "Number of barrel grooves": "6.0",
-      "Pitch of rifling": "1mm turn in 180",
-      "Twist of rifling": "Right hand"
+      "Muzzle Velocity": "122 metres per second",
+      "Magazine Capacity": "10"
     },
     "Stoppage Drills": {
       "Immediate Action": [
-        "If the rifle fails to fire, tilt the weapon to the left and look at the position of the cocking handle."
+        "Ensure the bolt is fully locked forward",
+        "Fire the weapon"
       ],
-      "Cocking Handle Fully Forward": [
-        "Forward assist the cocking handle",
-        "Resume firing",
-        "If the weapon still fails to fire, cock the weapon and engage the holding up catch."
+      "Weapon Still Fails to Fire": [
+        "Ensure the rifle points in a safe direction throughout",
+        "Unload the rifle",
+        "Load the rifle",
+        "Make Ready",
+        "Fire the weapon"
       ],
-      "Loose Magazine": [
-        "Tilt the weapon to the right",
-        "Pull the cocking handle to the rear and engage the holding up device",
-        "If there are rounds in the magazine and no rounds in the body or chamber then ensure magazine is correctly fitted",
-        "Operate the bolt release catch",
-        "Forward assist the cocking handle",
-        "Resume firing"
-      ],
-      "Obstruction": [
-        "Tilt the rifle to the right",
-        "Cock the rifle and engage the holding up catch",
-        "If there is an obstruction, remove the magazine",
-        "Clear the obstruction",
-        "Tilt the weapon to the left and inspect the body and chamber to ensure there is no further obstruction",
-        "Replace magazine",
-        "Operate bolt release catch",
-        "Forward assist",
-        "Resume firing"
-      ],
-      "Empty Magazine": [
-        "Open your ammunition pouch",
-        "Press magazine release catch and remove magazine",
-        "Remove magazine from pouch",
-        "Ensure the top round is seated correctly",
-        "Insert the magazine firmly into the magazine housing",
-        "Fasten your ammunition pouch",
-        "Operate the bolt release catch",
-        "Forward assist the cocking handle",
-        "Resume Firing"
+      "Weapon Will Not Fire": [
+        "Ensure the rifle points in a safe direction throughout",
+        "Unload the rifle",
+        "Conduct NSPs",
+        "Pass the weapon to a CFAV for inspection"
       ]
     }
   },
@@ -395,6 +354,147 @@
         "Operate the bolt release catch",
         "Forward assist the cocking handle",
         "Set the safety catch to 'F'",
+        "Resume Firing"
+      ]
+    }
+  },
+  "L85A3": {
+    "Name": "SA80",
+    "Calibre": "5.56",
+    "Range": "The effective range of the L85A3 is 300 metres as an individual and 600 metres as a section.",
+    "Designation": "L85A3",
+    "Description": "The 5.56 mm Rifle L85A3 is a member of the SA80 series of assault rifles; built by H&K for the British Army. First introduced in 1984, the A3 variant was released in 2019. The L85A3 can be fitted with a number of different sights and attachments; it is the personal weapon of the British service person.",
+    "Drills": {
+      "Normal Safety Precautions (NSPs)": [
+        "Set the safety catch to 'S'",
+        "Set the change lever to 'R'",
+        "Pull the cocking handle to the rear and engage the holding up device",
+        "Inspect the face of the bolt, the body and the chamber",
+        "If under instruction, wait for the words of command 'Ease Springs'",
+        "Operate bolt release catch",
+        "Set the safety catch to 'F'",
+        "Operate the trigger",
+        "Set the safety catch to 'S'",
+        "Close the dust cover"
+      ],
+      "Functions Test": [
+        "Set the safety catch to 'S'",
+        "Set the change lever to 'R'",
+        "Cock the rifle",
+        "Attempt to operate trigger",
+        "Set the safety catch to 'F'",
+        "Operate the trigger and hold it in",
+        "Cock the rifle",
+        "Release the trigger and listen for the sear engaging",
+        "Operate the trigger",
+        "Set the change lever to 'A'",
+        "Cock the rifle",
+        "Operate the trigger and hold it in",
+        "Cock the weapon slowly, watch the hammer strike the rear of the bolt",
+        "Set the safety catch to 'S'",
+        "Set the change lever to 'R'",
+        "Close the dust cover"
+      ],
+      "Load": [
+        "Set the safety catch to 'S'",
+        "Open your ammunition pouch",
+        "Remove magazine from pouch",
+        "Ensure the top round is seated correctly",
+        "Fasten your ammunition pouch"
+      ],
+      "Ready": [
+        "Set the safety catch to 'S'",
+        "Set the change lever to 'R'",
+        "Ensure the sights are on the correct setting",
+        "Cock the rifle",
+        "Forward assist the cocking handle"
+      ],
+      "Unload": [
+        "Set safety catch to 'S'",
+        "Open your ammunition pouch",
+        "Press magazine release catch and remove magazine",
+        "Place magazine in ammunition pouch",
+        "Pull the cocking handle to the rear and engage the holding up device",
+        "Inspect the face of the bolt, the body and the chamber",
+        "Ensure there is no magazine is fitted to the rifle",
+        "Operate the bolt release catch",
+        "Set the safety catch to 'F'",
+        "Operate the trigger",
+        "Set the safety catch to 'S'",
+        "Set the change lever to 'R'",
+        "Ensure the sights are returned to base setting",
+        "Close the dust cover",
+        "Pick up the ejected round and place it back into the magazine",
+        "Fasten ammunition pouch"
+      ]
+    },
+    "Images": [
+      "sa80a3",
+      "The L85A3 SA80 rifle.",
+      "sa80a3ugl",
+      "SA80 A3 fitted with an Underslung Grenade Launcher (UGL) and Night Vision Sight (NVS)",
+      "sa80llm",
+      "SA80 A3 fitted with a Lightweight Day Sight (LDS) & Laser Light Module (LLM) engaging targets on the range."
+    ],
+    "Sights": [
+      "Iron Sight",
+      "SUSAT",
+      "ACOG TA31",
+      "LDS",
+      "Kite (CWS)",
+      "Maxikite 2"
+    ],
+    "Attachments": "The L85A3 can be fitted with attachments to improve it's capability. The muzzle of the rifle can be fitted with a bayonet, for hand to hand combat with the enemy. The laser light module (LLM) can be fitted to the foregrip to more accurate Close Quarter Battle (CQB) engagements. The A3 also allows for an Underslung Grenade Launcher (UGL) to be attached.",
+    "Technical Data": {
+      "Calibre": "5.56mm",
+      "Weight": "3.7kg",
+      "Length": "773mm",
+      "Firing Modes": "Single shot and Automatic",
+      "Method of Operation": "Gas and spring",
+      "Feed": "Magazine",
+      "Muzzle Velocity": "930 metres per second",
+      "Recoil": "4.0 joules",
+      "Number of barrel grooves": "6.0",
+      "Pitch of rifling": "1mm turn in 180",
+      "Twist of rifling": "Right hand"
+    },
+    "Stoppage Drills": {
+      "Immediate Action": [
+        "If the rifle fails to fire, tilt the weapon to the left and look at the position of the cocking handle."
+      ],
+      "Cocking Handle Fully Forward": [
+        "Forward assist the cocking handle",
+        "Resume firing",
+        "If the weapon still fails to fire, cock the weapon and engage the holding up catch."
+      ],
+      "Loose Magazine": [
+        "Tilt the weapon to the right",
+        "Pull the cocking handle to the rear and engage the holding up device",
+        "If there are rounds in the magazine and no rounds in the body or chamber then ensure magazine is correctly fitted",
+        "Operate the bolt release catch",
+        "Forward assist the cocking handle",
+        "Resume firing"
+      ],
+      "Obstruction": [
+        "Tilt the rifle to the right",
+        "Cock the rifle and engage the holding up catch",
+        "If there is an obstruction, remove the magazine",
+        "Clear the obstruction",
+        "Tilt the weapon to the left and inspect the body and chamber to ensure there is no further obstruction",
+        "Replace magazine",
+        "Operate bolt release catch",
+        "Forward assist",
+        "Resume firing"
+      ],
+      "Empty Magazine": [
+        "Open your ammunition pouch",
+        "Press magazine release catch and remove magazine",
+        "Remove magazine from pouch",
+        "Ensure the top round is seated correctly",
+        "Insert the magazine firmly into the magazine housing",
+        "Fasten your ammunition pouch",
+        "Operate the bolt release catch",
+        "Forward assist the cocking handle",
         "Resume Firing"
       ]
     }
@@ -848,264 +948,104 @@
       ]
     }
   },
-  "Scorpion": {
-    "Name": "Cadet Air Rifle",
-    "Calibre": ".177",
-    "Range": "10m",
-    "Designation": "BSA Scorpion",
-    "Description": "The BSA Scorpion .177 Air Rifle is a bolt operated, magazine fed weapon developed specifically to meet the needs of British Military Cadet Force. It is used as a training weapon and for competition.",
-    "Drills": {
-      "Normal safety precautions (NSPs)": [
-        "Set the safety catch to 'S'",
-        "Open the bolt",
-        "Move the magazine catch forwards and remove the magazine",
-        "Inspect the face of the bolt, body and chamber",
-        "On the word of command 'Ease Springs'",
-        "Close the bolt",
-        "Set the safety catch to 'F'",
-        "Operate the trigger",
-        "Set the safety catch to 'S'",
-        "Inspect the magazine and ensure it is clear",
-        "Place the magazine next to the weapon"
-      ],
-      "Rodding the weapon": [
-        "Set the safety catch to 'S'",
-        "Open the bolt",
-        "Move the magazine catch forwards and remove the magazine",
-        "Inspect the face of the bolt, body and chamber",
-        "Insert a cleaning rod into the barrel from the muzzle until it can be observed in the breach",
-        "Remove the rod",
-        "Close the bolt",
-        "Set the safety catch to 'F'",
-        "Operate the trigger",
-        "Set the safety catch to 'S'"
-      ],
-      "Load": [
-        "Set the safety catch to 'S'",
-        "Open the bolt",
-        "Ensure the magazine release catch is fully forward",
-        "Ensure the top pellet is seated correctly in the magazine",
-        "Place magazine into magazine housing",
-        "Push the magazine release catch to the rear",
-        "Ensure the magazine is fitted correctly with the screw facing towards the rear"
-      ],
-      "Ready": [
-        "Set the safety catch to 'S'",
-        "Push the bolt forwards",
-        "The trigger finger is to remain on the outside of the trigger guard"
-      ],
-      "Unload": [
-        "Set safety catch to 'S'",
-        "Open the bold",
-        "push magazine release catch forwards and remove magazine",
-        "Inspect the bolt, body and chamber and ensure there are no pellets inside",
-        "Push the bolt forward",
-        "Set the safety catch to 'F'",
-        "Operate the trigger, a pellet may be fired",
-        "Set the safety catch to 'S'",
-        "Remove any unfired pellets from the magazine"
-      ]
-    },
-    "Images": [
-      "scorpion1",
-      "Cadets fire their .177 Scorpions",
-      "scorpion2",
-      "The BSA Scorpion Cadet Air Rifle",
-      "scorpion3",
-      "A cadet fires his rifle on the range"
-    ],
-    "Sights": [
-      "Iron Sight"
-    ],
-    "Attachments": "There are no attachments for the BSA Scorpion",
-    "Technical Data": {
-      "Calibre": ".177",
-      "Weight": "1.5kg",
-      "Length": "400mm",
-      "Firing Modes": "Single shot",
-      "Method of Operation": "Air & spring",
-      "Feed": "Magazine",
-      "Muzzle Velocity": "122 metres per second",
-      "Magazine Capacity": "10"
-    },
-    "Stoppage Drills": {
-      "Immediate Action": [
-        "Ensure the bolt is fully locked forward",
-        "Fire the weapon"
-      ],
-      "Weapon Still Fails to Fire": [
-        "Ensure the rifle points in a safe direction throughout",
-        "Unload the rifle",
-        "Load the rifle",
-        "Make Ready",
-        "Fire the weapon"
-      ],
-      "Weapon Will Not Fire": [
-        "Ensure the rifle points in a safe direction throughout",
-        "Unload the rifle",
-        "Conduct NSPs",
-        "Pass the weapon to a CFAV for inspection"
-      ]
-    }
-  },
   "L144A1": {
-    "Name": "Small Bore Target Rifle",
-    "Calibre": "5.56",
-    "Range": "The effective range of the L85A3 is 300 metres.",
-    "Designation": "L98A2",
-    "Description": "The Cadet Rifle is a member of the SA80 series of assault rifles; built by H&K for the British Army. First introduced in 1984. It is fitted with the standard iron sight and only operates in semi-automatic mode. There is a .22 adapter kit for use on indoor ranges.",
+    "Name": "Cadet Small Bore Target Rifle",
+    "Calibre": ".22",
+    "Range": "The effective range of the L144A1 is 100 metres.",
+    "Designation": "CSBTR",
+    "Description": "The Cadet Small Bore Target Ridle (CSBTR) is a bolt-action .22 calibre version of the Lee–Enfield rifle designed for British Army target shooting. They are simple single-shot, hand-fed cadet rifles and were originally designed to be used by military marksmen firing in civilian competitions.",
     "Drills": {
       "Normal safety precautions (NSPs)": [
+        "Open the bolt",
         "Set the safety catch to 'S'",
-        "Pull the cocking handle to the rear and engage the holding up device",
-        "Inspect the face of the bolt, the body and the chamber",
+        "Inspect the face of the bolt, body and chamber to ensure they are clear",
         "If under instruction, wait for the words of command 'Ease Springs'",
-        "Operate bolt release catch",
+        "Close the bolt",
         "Set the safety catch to 'F'",
         "Operate the trigger with an aimed shot",
-        "Set the safety catch to 'S'",
-        "Close the dust cover"
+        "If trigger fails to operate correctly, repeat the above drills"
       ],
-      "Picking up an unattended weapon": [
+      "Handing over the rifle": [
+        "Open the bolt",
         "Set the safety catch to 'S'",
-        "Open ammunition pouch (if magazine is fitted)",
-        "Remove the magazine and place into ammunition pouch",
-        "Fasten ammunition pouch",
-        "Cock the weapon and engage the holding up catch",
-        "Carry out 7 point check",
-        "Operate bolt release catch",
+        "Inspect the face of the bolt, body and chamber to ensure they are clear",
+        "Get the recipient to inspect the bolt, body and chamber",
+        "Close the bolt",
         "Set the safety catch to 'F'",
         "Operate the trigger with an aimed shot",
-        "Set the safety catch to 'S'",
-        "Close the dust cover"
-      ],
-      "Handing over a weapon": [
-        "Set the safety catch to 'S'",
-        "Pull the cocking handle to the rear and engage the holding up device",
-        "Inspect the face of the bolt, the body and the chamber",
-        "State that the weapon is 'clear'",
-        "Recipient of the rifle confirms the rifle is 'clear'",
-        "Operate bolt release catch",
-        "Set the safety catch to 'F'",
-        "Operate the trigger with an aimed shot",
-        "Set the safety catch to 'S'",
-        "Close the dust cover",
-        "Hand over the rifle"
+        "If trigger fails to operate correctly, repeat the above drills",
+        "Pass the rifle over to the recipient"
       ],
       "Functions test": [
-        "Set the safety catch to 'S'",
         "Cock the rifle",
-        "Forward assist",
+        "Set the safety catch to 'S'",
         "Attempt to operate trigger",
         "Set the safety catch to 'F'",
-        "Operate the trigger and hold it in",
-        "Cock the rifle",
-        "Forward assist",
-        "Release the trigger and listen for the sear engaging",
-        "Operate the trigger",
-        "Set the safety catch to 'S'",
-        "Close the dust cover"
+        "Operate the trigger and listen for the audible click",
+        "If no click is heard, re-cock the weapon and operate the trigger",
+        "If no click heard for a second time the weapon is not to be used and reported to unit armourer"
       ],
-      "Load": [
+      "Load (Ready)": [
+        "Open the bolt",
         "Set the safety catch to 'S'",
-        "Open your ammunition pouch",
-        "Remove magazine from pouch",
-        "Ensure the top round is seated correctly",
-        "Place magazine firmly into magazine housing",
-        "Fasten your ammunition pouch"
-      ],
-      "Ready": [
-        "Set the safety catch to 'S'",
-        "Ensure the sights are on the correct setting",
-        "Cock the rifle",
-        "Forward assist the cocking handle"
+        "Place a round onto the feed tray",
+        "Move the bolt forward",
+        "Lock the bolt into the down position",
+        "The rifle is now 'Loaded' and 'Ready'"
       ],
       "Unload": [
         "Set safety catch to 'S'",
-        "Open your ammunition pouch",
-        "Press magazine release catch and remove magazine",
-        "Place magazine in ammunition pouch",
-        "Pull the cocking handle to the rear and engage the holding up device",
-        "Inspect the face of the bolt, the body and the chamber",
-        "Ensure there is no magazine is fitted to the rifle",
-        "Operate the bolt release catch",
+        "Open the bolt, a round or empty case may be ejected",
+        "Tilt the weapon to the left",
+        "Ensure the bolt, body, chamber and feed tray are clear",
+        "Close the bolt",
         "Set the safety catch to 'F'",
-        "Operate the trigger",
-        "Set the safety catch to 'S'",
-        "Ensure the sights are returned to base setting",
-        "Close the dust cover",
-        "Pick up the ejected round and place it back into the magazine",
-        "Fasten ammunition pouch"
+        "Operate the trigger"
       ]
     },
     "Images": [
-      "sa80cadet2",
-      "A cadet fires his L98A2 rifle on the range",
-      "sa80cadet1",
-      "The L98A2 rifle",
-      "sa80cadet3",
-      "The L98A2 SA80 rifle"
+      "csbtr1",
+      "Skill at Arms training on the CSBTR",
+      "csbtr2",
+      "A cadet fires his L144A1 on an indoor range",
+      "csbtr3",
+      "The CSBTR stripped for l"
     ],
     "Sights": [
       "Iron Sight"
     ],
-    "Attachments": "There are no attachments for the SA80 L98A2.",
+    "Attachments": "There are no attachments for the L114A1 CSBTR.",
     "Technical Data": {
-      "Calibre": "5.56mm",
-      "Weight": "3.7kg",
-      "Length": "773mm",
+      "Calibre": "0.22",
+      "Weight": "3.66kg",
+      "Length": "965-1054mm",
       "Firing Modes": "Single shot",
-      "Method of Operation": "Gas and spring",
-      "Feed": "Magazine",
-      "Muzzle Velocity": "930 metres per second",
-      "Recoil": "4.0 joules",
-      "Number of barrel grooves": "6.0",
-      "Pitch of rifling": "1mm turn in 180",
+      "Method of Operation": "Bolt action",
+      "Feed": "Manual",
       "Twist of rifling": "Right hand"
     },
     "Stoppage Drills": {
       "Immediate Action": [
-        "Set the safety catch to 'S'",
-        "Tilt the weapon to the left and look at the position of the cocking handle."
+        "Ensure the bolt is full forward and locked in the downward position",
+        "Operate the trigger",
+        "If the rifle still fails to fire, unload and inspect the chamber"
       ],
-      "Cocking Handle Fully Forward": [
-        "Forward assist the cocking handle",
-        "Set the safety catch to 'F'",
-        "Resume firing",
-        "If the weapon still fails to fire, cock the weapon and engage the holding up catch."
-      ],
-      "Loose Magazine": [
-        "Tilt the weapon to the right",
-        "Pull the cocking handle to the rear and engage the holding up device",
-        "If there are rounds in the magazine and no rounds in the body or chamber then ensure magazine is correctly fitted",
-        "Operate the bolt release catch",
-        "Forward assist the cocking handle",
-        "Set the safety catch to 'F'",
+      "Chamber Clear": [
+        "Conduct the load drill",
         "Resume firing"
       ],
-      "Obstruction": [
-        "Tilt the rifle to the right",
-        "Cock the rifle and engage the holding up catch",
-        "If there is an obstruction, remove the magazine",
-        "Clear the obstruction",
-        "Tilt the weapon to the left and inspect the body and chamber to ensure there is no further obstruction",
-        "Replace magazine",
-        "Operate bolt release catch",
-        "Forward assist",
-        "Set the safety catch to 'F'",
-        "Resume firing"
+      "Damaged Firing Pin": [
+        "If stoppages persist: unload and inform a member of range staff, who will inspect ejected rounds",
+        "Unload and inform a member of range staff, who will inspect ejected rounds",
+        "Good Strike: Faulty ammunition",
+        "Weak Strike: Ensure firer is locking the bolt correctly",
+        "No Strike: Possible damaged firing pin, consult unit armourer"
       ],
-      "Empty Magazine": [
-        "Open your ammunition pouch",
-        "Press magazine release catch and remove magazine",
-        "Remove magazine from pouch",
-        "Ensure the top round is seated correctly",
-        "Insert the magazine firmly into the magazine housing",
-        "Fasten your ammunition pouch",
-        "Operate the bolt release catch",
-        "Forward assist the cocking handle",
-        "Set the safety catch to 'F'",
-        "Resume Firing"
+      "Further Action": [
+        "If stoppages persist:",
+        "Unload the rifle",
+        "Remove the rifle from use until it has been inspected by unit armourer",
+        "Resume firing"
       ]
     }
   },
