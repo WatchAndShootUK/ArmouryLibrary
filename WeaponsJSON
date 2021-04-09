@@ -1,4 +1,3 @@
-
 {
   "L131A1": {
     "Name": "Glock",
@@ -302,6 +301,7 @@
         "Open your ammunition pouch",
         "Remove magazine from pouch",
         "Ensure the top round is seated correctly",
+        "Place magazine firmly into magazine housing",
         "Fasten your ammunition pouch"
       ],
       "Ready": [
