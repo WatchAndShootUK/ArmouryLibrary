@@ -197,6 +197,107 @@
       ]
     }
   },
+  "L144A1": {
+    "Name": "Small Bore Target Rifle",
+    "Calibre": ".22",
+    "Range": "The effective range of the L144A1 is 100 metres.",
+    "Designation": "CSBTR",
+    "Description": "The Cadet Small Bore Target Ridle (CSBTR) is a bolt-action .22 calibre version of the Lee–Enfield rifle designed for British Army target shooting. They are simple single-shot, hand-fed cadet rifles and were originally designed to be used by military marksmen firing in civilian competitions.",
+    "Drills": {
+      "Normal safety precautions (NSPs)": [
+        "Open the bolt",
+        "Set the safety catch to 'S'",
+        "Inspect the face of the bolt, body and chamber to ensure they are clear",
+        "If under instruction, wait for the words of command 'Ease Springs'",
+        "Close the bolt",
+        "Set the safety catch to 'F'",
+        "Operate the trigger with an aimed shot",
+        "If trigger fails to operate correctly, repeat the above drills"
+      ],
+      "Handing over the rifle": [
+        "Open the bolt",
+        "Set the safety catch to 'S'",
+        "Inspect the face of the bolt, body and chamber to ensure they are clear",
+        "Get the recipient to inspect the bolt, body and chamber",
+        "Close the bolt",
+        "Set the safety catch to 'F'",
+        "Operate the trigger with an aimed shot",
+        "If trigger fails to operate correctly, repeat the above drills",
+        "Pass the rifle over to the recipient"
+      ],
+      "Functions test": [
+        "Cock the rifle",
+        "Set the safety catch to 'S'",
+        "Attempt to operate trigger",
+        "Set the safety catch to 'F'",
+        "Operate the trigger and listen for the audible click",
+        "If no click is heard, re-cock the weapon and operate the trigger",
+        "If no click heard for a second time the weapon is not to be used and reported to unit armourer"
+      ],
+      "Load (Ready)": [
+        "Open the bolt",
+        "Set the safety catch to 'S'",
+        "Place a round onto the feed tray",
+        "Move the bolt forward",
+        "Lock the bolt into the down position",
+        "The rifle is now 'Loaded' and 'Ready'"
+      ],
+      "Unload": [
+        "Set safety catch to 'S'",
+        "Open the bolt, a round or empty case may be ejected",
+        "Tilt the weapon to the left",
+        "Ensure the bolt, body, chamber and feed tray are clear",
+        "Close the bolt",
+        "Set the safety catch to 'F'",
+        "Operate the trigger"
+      ]
+    },
+    "Images": [
+      "csbtr1",
+      "Skill at Arms training on the CSBTR",
+      "csbtr2",
+      "A cadet fires his L144A1 on an indoor range",
+      "csbtr3",
+      "The CSBTR stripped for l"
+    ],
+    "Sights": [
+      "Iron Sight"
+    ],
+    "Attachments": "There are no attachments for the L114A1 CSBTR.",
+    "Technical Data": {
+      "Calibre": "0.22",
+      "Weight": "3.66kg",
+      "Length": "965-1054mm",
+      "Firing Modes": "Single shot",
+      "Method of Operation": "Bolt action",
+      "Feed": "Manual",
+      "Twist of rifling": "Right hand"
+    },
+    "Stoppage Drills": {
+      "Immediate Action": [
+        "Ensure the bolt is full forward and locked in the downward position",
+        "Operate the trigger",
+        "If the rifle still fails to fire, unload and inspect the chamber"
+      ],
+      "Chamber Clear": [
+        "Conduct the load drill",
+        "Resume firing"
+      ],
+      "Damaged Firing Pin": [
+        "If stoppages persist: unload and inform a member of range staff, who will inspect ejected rounds",
+        "Unload and inform a member of range staff, who will inspect ejected rounds",
+        "Good Strike: Faulty ammunition",
+        "Weak Strike: Ensure firer is locking the bolt correctly",
+        "No Strike: Possible damaged firing pin, consult unit armourer"
+      ],
+      "Further Action": [
+        "If stoppages persist:",
+        "Unload the rifle",
+        "Remove the rifle from use until it has been inspected by unit armourer",
+        "Resume firing"
+      ]
+    }
+  },
   "L98A2": {
     "Name": "SA80 (Cadet)",
     "Calibre": "5.56",
@@ -496,6 +597,71 @@
         "Operate the bolt release catch",
         "Forward assist the cocking handle",
         "Resume Firing"
+      ]
+    }
+  },
+  "L81A2": {
+    "Name": "Cadet Target Rifle",
+    "Calibre": "7.62",
+    "Range": "The effective range of the L144A1 is 1800 metres.",
+    "Designation": "L81A2",
+    "Description": "The Parker-Hale Model 82 (M82) is the military version of the Parker-Hale 1200TX target rifle; it was accepted for service by several nations for both military and police use. It was conventionally used as a sniper rifle.",
+    "Drills": {
+      "Normal safety precautions (NSPs)": [
+        "Set safety catch to 'F'",
+        "Open the bolt",
+        "Remove the Breech Flag (if present)",
+        "Inspect the bolt, body and chamber",
+        "Insert the Breech Flag"
+      ],
+      "Load (Ready)": [
+        "Open the bolt",
+        "Remove the Breech Flag",
+        "Place a round onto the feed tray",
+        "Move the bolt forward",
+        "Place the butt into the shoulder",
+        "Lock the bolt into the down position",
+        "The rifle is now 'Loaded' and 'Ready'"
+      ],
+      "Unload": [
+        "Open the bolt, a round or empty case may be ejected",
+        "Tilt the weapon to the left",
+        "Ensure the bolt, body, chamber and feed tray are clear",
+        "Await inspect by Range Staff",
+        "Insert Breech Flag"
+      ]
+    },
+    "Images": [
+      "ctr1",
+      "The L81A2 Cadet Target Rifle",
+      "ctr2",
+      "An Australian Sniper wields his Parker M83",
+      "ctr3",
+      "The C3A1 is an upgraded M83 and in use by Canadian Special Forces"
+    ],
+    "Sights": [
+      "Iron Sight"
+    ],
+    "Attachments": "There are no attachments for the L81A2.",
+    "Technical Data": {
+      "Calibre": "7.62",
+      "Weight": "5.2kg",
+      "Length": "1194mm",
+      "Barrel Length": "660mm",
+      "Firing Modes": "Single shot",
+      "Method of Operation": "Bolt action",
+      "Feed": "Manual",
+      "Muzzle Velocity": "870m/s",
+      "Twist of rifling": "Right hand",
+      "Trigger pressure": "2-5lb"
+    },
+    "Stoppage Drills": {
+      "Misfires": [
+        "Remain in the aim for 10 seconds",
+        "If the round does not fire:",
+        "Unload and set aside the faulty round",
+        "Load",
+        "Re-engage the target"
       ]
     }
   },
@@ -945,172 +1111,6 @@
         "Remove the external battery",
         "Wait 30 minutes",
         "Dispose of the weapon as a misfire"
-      ]
-    }
-  },
-  "L144A1": {
-    "Name": "Small Bore Target Rifle",
-    "Calibre": ".22",
-    "Range": "The effective range of the L144A1 is 100 metres.",
-    "Designation": "CSBTR",
-    "Description": "The Cadet Small Bore Target Ridle (CSBTR) is a bolt-action .22 calibre version of the Lee–Enfield rifle designed for British Army target shooting. They are simple single-shot, hand-fed cadet rifles and were originally designed to be used by military marksmen firing in civilian competitions.",
-    "Drills": {
-      "Normal safety precautions (NSPs)": [
-        "Open the bolt",
-        "Set the safety catch to 'S'",
-        "Inspect the face of the bolt, body and chamber to ensure they are clear",
-        "If under instruction, wait for the words of command 'Ease Springs'",
-        "Close the bolt",
-        "Set the safety catch to 'F'",
-        "Operate the trigger with an aimed shot",
-        "If trigger fails to operate correctly, repeat the above drills"
-      ],
-      "Handing over the rifle": [
-        "Open the bolt",
-        "Set the safety catch to 'S'",
-        "Inspect the face of the bolt, body and chamber to ensure they are clear",
-        "Get the recipient to inspect the bolt, body and chamber",
-        "Close the bolt",
-        "Set the safety catch to 'F'",
-        "Operate the trigger with an aimed shot",
-        "If trigger fails to operate correctly, repeat the above drills",
-        "Pass the rifle over to the recipient"
-      ],
-      "Functions test": [
-        "Cock the rifle",
-        "Set the safety catch to 'S'",
-        "Attempt to operate trigger",
-        "Set the safety catch to 'F'",
-        "Operate the trigger and listen for the audible click",
-        "If no click is heard, re-cock the weapon and operate the trigger",
-        "If no click heard for a second time the weapon is not to be used and reported to unit armourer"
-      ],
-      "Load (Ready)": [
-        "Open the bolt",
-        "Set the safety catch to 'S'",
-        "Place a round onto the feed tray",
-        "Move the bolt forward",
-        "Lock the bolt into the down position",
-        "The rifle is now 'Loaded' and 'Ready'"
-      ],
-      "Unload": [
-        "Set safety catch to 'S'",
-        "Open the bolt, a round or empty case may be ejected",
-        "Tilt the weapon to the left",
-        "Ensure the bolt, body, chamber and feed tray are clear",
-        "Close the bolt",
-        "Set the safety catch to 'F'",
-        "Operate the trigger"
-      ]
-    },
-    "Images": [
-      "csbtr1",
-      "Skill at Arms training on the CSBTR",
-      "csbtr2",
-      "A cadet fires his L144A1 on an indoor range",
-      "csbtr3",
-      "The CSBTR stripped for l"
-    ],
-    "Sights": [
-      "Iron Sight"
-    ],
-    "Attachments": "There are no attachments for the L114A1 CSBTR.",
-    "Technical Data": {
-      "Calibre": "0.22",
-      "Weight": "3.66kg",
-      "Length": "965-1054mm",
-      "Firing Modes": "Single shot",
-      "Method of Operation": "Bolt action",
-      "Feed": "Manual",
-      "Twist of rifling": "Right hand"
-    },
-    "Stoppage Drills": {
-      "Immediate Action": [
-        "Ensure the bolt is full forward and locked in the downward position",
-        "Operate the trigger",
-        "If the rifle still fails to fire, unload and inspect the chamber"
-      ],
-      "Chamber Clear": [
-        "Conduct the load drill",
-        "Resume firing"
-      ],
-      "Damaged Firing Pin": [
-        "If stoppages persist: unload and inform a member of range staff, who will inspect ejected rounds",
-        "Unload and inform a member of range staff, who will inspect ejected rounds",
-        "Good Strike: Faulty ammunition",
-        "Weak Strike: Ensure firer is locking the bolt correctly",
-        "No Strike: Possible damaged firing pin, consult unit armourer"
-      ],
-      "Further Action": [
-        "If stoppages persist:",
-        "Unload the rifle",
-        "Remove the rifle from use until it has been inspected by unit armourer",
-        "Resume firing"
-      ]
-    }
-  },
-  "L81A2": {
-    "Name": "Cadet Target Rifle",
-    "Calibre": "7.62",
-    "Range": "The effective range of the L144A1 is 1800 metres.",
-    "Designation": "L81A2",
-    "Description": "The Parker-Hale Model 82 (M82) is the military version of the Parker-Hale 1200TX target rifle; it was accepted for service by several nations for both military and police use. It was conventionally used as a sniper rifle.",
-    "Drills": {
-      "Normal safety precautions (NSPs)": [
-        "Set safety catch to 'F'",
-        "Open the bolt",
-        "Remove the Breech Flag (if present)",
-        "Inspect the bolt, body and chamber",
-        "Insert the Breech Flag"
-      ],
-      "Load (Ready)": [
-        "Open the bolt",
-        "Remove the Breech Flag",
-        "Place a round onto the feed tray",
-        "Move the bolt forward",
-        "Place the butt into the shoulder",
-        "Lock the bolt into the down position",
-        "The rifle is now 'Loaded' and 'Ready'"
-      ],
-      "Unload": [
-        "Open the bolt, a round or empty case may be ejected",
-        "Tilt the weapon to the left",
-        "Ensure the bolt, body, chamber and feed tray are clear",
-        "Await inspect by Range Staff",
-        "Insert Breech Flag"
-      ]
-    },
-    "Images": [
-      "ctr1",
-      "The L81A2 Cadet Target Rifle",
-      "ctr2",
-      "An Australian Sniper wields his Parker M83",
-      "ctr3",
-      "The C3A1 is an upgraded M83 and in use by Canadian Special Forces"
-    ],
-    "Sights": [
-      "Iron Sight"
-    ],
-    "Attachments": "There are no attachments for the L81A2.",
-    "Technical Data": {
-      "Calibre": "7.62",
-      "Weight": "5.2kg",
-      "Length": "1194mm",
-      "Barrel Length": "660mm",
-      "Firing Modes": "Single shot",
-      "Method of Operation": "Bolt action",
-      "Feed": "Manual",
-      "Muzzle Velocity": "870m/s",
-      "Twist of rifling": "Right hand",
-      "Trigger pressure": "2-5lb"
-    },
-    "Stoppage Drills": {
-      "Misfires": [
-        "Remain in the aim for 10 seconds",
-        "If the round does not fire:",
-        "Unload and set aside the faulty round",
-        "Load",
-        "Re-engage the target"
       ]
     }
   }
