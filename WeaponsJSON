@@ -546,8 +546,7 @@
       "Kite (CWS)",
       "Maxikite 2"
     ],
-    "Attachments": "The L85A3 can be fitted with attachments to improve it's capability. The muzzle of the rifle can be fitted with a bayonet, for hand to hand combat with the enemy. The laser light module (LLM) can be fitted to the foregrip to more accurate Close Quarter Battle (CQB) engagements. The A3 also allows for an Underslung Grenade Launcher (UGL) to be attached.",
-    "Technical Data": {
+     "Technical Data": {
       "Calibre": "5.56mm",
       "Weight": "3.7kg",
       "Length": "773mm",
@@ -558,7 +557,8 @@
       "Recoil": "4.0 joules",
       "Number of barrel grooves": "6.0",
       "Pitch of rifling": "1mm turn in 180",
-      "Twist of rifling": "Right hand"
+      "Twist of rifling": "Right hand",
+      "Attachments": "The L85A3 can be fitted with attachments to improve it's capability. The muzzle of the rifle can be fitted with a bayonet, for hand to hand combat with the enemy. The laser light module (LLM) can be fitted to the foregrip to more accurate Close Quarter Battle (CQB) engagements. The A3 also allows for an Underslung Grenade Launcher (UGL) to be attached."
     },
     "Stoppage Drills": {
       "Immediate Action": [
