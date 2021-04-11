@@ -897,6 +897,10 @@
   },
   "L74A1": {
     "Name": "Combat Shotgun",
+    "NPDs": [
+      "l74npd"
+    ]
+  },
     "Calibre": "18.4",
     "Range": "Accurate buckshot fire up to 40 metres, the maximum effective range with solid shot is 130 metres.",
     "Designation": "L74A1",
@@ -983,6 +987,10 @@
   },
   "ASM": {
     "Name": "Anti Structure Munition",
+    "NPDs": [
+      "asmlpd"
+    ]
+  },
     "Calibre": "90",
     "Range": "The maximum range of the ASM is 600 metres with an effective range of 400 metres. ",
     "Designation": "ASM",
@@ -1064,6 +1072,10 @@
   },
   "K107A1": {
     "Name": "NLAW",
+    "NPDs": [
+      "nlawnpd"
+    ]
+  },
     "Calibre": "150",
     "Range": "The maximum range of the NLAW is 600m for static targets and 400m for moving targets.",
     "Designation": "NLAW",
