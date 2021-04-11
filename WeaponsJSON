@@ -537,7 +537,11 @@
       "sa80llm",
       "SA80 A3 fitted with a Lightweight Day Sight (LDS) & Laser Light Module (LLM) engaging targets on the range."
     ],
-    "NPD": "sa80",
+    "NPDs": {
+      "sa80npd1": "Left hand view",
+      "sa80npd2": "Right hand view",
+      "sa80npd3": "Internal compontents"
+    },
     "Sights": [
       "Iron Sight",
       "SUSAT",
@@ -546,7 +550,7 @@
       "Kite (CWS)",
       "Maxikite 2"
     ],
-     "Technical Data": {
+    "Technical Data": {
       "Calibre": "5.56mm",
       "Weight": "3.7kg",
       "Length": "773mm",
