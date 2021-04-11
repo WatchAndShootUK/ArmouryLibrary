@@ -205,7 +205,7 @@
   },
   "L144A1": {
     "NPDs": [
-      "csbtr1"
+      "csbtrnpd1"
     ],
     "Name": "Small Bore Target Rifle",
     "Calibre": ".22",
@@ -262,7 +262,7 @@
       ]
     },
     "Images": [
-      "csbtr11",
+      "csbtr1",
       "Skill at Arms training on the CSBTR",
       "csbtr2",
       "A cadet fires his L144A1 on an indoor range",
@@ -621,7 +621,7 @@
   },
   "L81A2": {
     "NPDs": [
-      "ctr1"
+      "ctrnpd1"
     ],
     "Name": "Cadet Target Rifle",
     "Calibre": "7.62",
