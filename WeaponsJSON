@@ -537,6 +537,7 @@
       "sa80llm",
       "SA80 A3 fitted with a Lightweight Day Sight (LDS) & Laser Light Module (LLM) engaging targets on the range."
     ],
+    "NPDs": ["sa80npd1","sa80npd2","sa80npd3"],
     "Sights": [
       "Iron Sight",
       "SUSAT",
