@@ -95,9 +95,15 @@
         "Release the slide by pulling it rearwards and releasing",
         "Resume firing"
       ]
-    }
+    },
+    "NPDs": [
+      "glock1"
+    ]
   },
   "Scorpion": {
+    "NPDs": [
+      "scorpion1"
+    ],
     "Name": "Cadet Air Rifle",
     "Calibre": ".177",
     "Range": "10m",
@@ -198,6 +204,9 @@
     }
   },
   "L144A1": {
+    "NPDs": [
+      "csbtr1"
+    ],
     "Name": "Small Bore Target Rifle",
     "Calibre": ".22",
     "Range": "The effective range of the L144A1 is 100 metres.",
@@ -299,6 +308,11 @@
     }
   },
   "L98A2": {
+    "NPDs": [
+      "l981",
+      "l982",
+      "l983"
+    ],
     "Name": "SA80 (Cadet)",
     "Calibre": "5.56",
     "Range": "The effective range of the L85A3 is 300 metres.",
@@ -537,11 +551,11 @@
       "sa80llm",
       "SA80 A3 fitted with a Lightweight Day Sight (LDS) & Laser Light Module (LLM) engaging targets on the range."
     ],
-    "NPDs": {
-      "sa80npd1": "Left hand view",
-      "sa80npd2": "Right hand view",
-      "sa80npd3": "Internal compontents"
-    },
+    "NPDs": [
+      "sa801",
+      "sa802",
+      "sa803"
+    ],
     "Sights": [
       "Iron Sight",
       "SUSAT",
@@ -606,6 +620,9 @@
     }
   },
   "L81A2": {
+    "NPDs": [
+      "ctr1"
+    ],
     "Name": "Cadet Target Rifle",
     "Calibre": "7.62",
     "Range": "The effective range of the L144A1 is 1800 metres.",
@@ -671,6 +688,10 @@
     }
   },
   "L129A1": {
+    "NPDs": [
+      "sharpshooter1",
+      "sharpshooter2"
+    ],
     "Name": "Sharpshooter Rifle",
     "Calibre": "7.62",
     "Range": "Accurate fire out to 600 metres, supressing fire out to 800 metres.",
@@ -769,6 +790,9 @@
     }
   },
   "L7A2": {
+    "NPDs": [
+      "gpmg1"
+    ],
     "Name": "GPMG",
     "Calibre": "7.62",
     "Range": "The range of the GPMG is 800 metres in the light role and 1800 metres in the sustained fire (tripod mounted) role.",
