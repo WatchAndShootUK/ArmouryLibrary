@@ -987,7 +987,7 @@
   "ASM": {
     "Name": "Anti Structure Munition",
     "NPDs": [
-      "asmlpd"
+      "asmnpd"
     ],
     "Calibre": "90",
     "Range": "The maximum range of the ASM is 600 metres with an effective range of 400 metres. ",
