@@ -621,8 +621,8 @@
   },
   "L119A2": {
     "NPDs": [
-      "sfiw1",
-      "sfiw2"
+      "sfiwnpd1",
+      "sfiwnpd2"
     ],
     "Name": "Special Forces Individual Weapon",
     "Calibre": "5.56",
