@@ -619,6 +619,118 @@
       ]
     }
   },
+  "L119A2": {
+    "NPDs": [
+      "sfiw1",
+      "sfiw2"
+    ],
+    "Name": "Special Forces Individual Weapon",
+    "Calibre": "5.56",
+    "Range": "Accurate fire out to 400 metres, supressing fire out to 600 metres.",
+    "Designation": "L119A2",
+    "Description": "The 5.56mm Special Forces Individual Weapon (SFIW) is used by both UK Special Forces and Special Operations Forces. Manufactured by Colt Canada, they are designated L119A2 respectively by the UK. Configured with standard barrel or a shorter carbine variant, these weapon systems are ideally suited for SF taskings. The SFIW has many configurations with a multitude of attachments and sighting systems, for security reasons only the 'off the shelf' rifle is described here.",
+    "Drills": {
+      "Normal Safety Precautions (NSPs)": [
+        "Pull the cocking handle to the rear",
+        "Push in the bolt release catch",
+        "Push the cocking handle fully forward",
+        "Check the bolt, body and chamber are clear of any obstructions or rounds",
+        "If under instruction, wait for the words of command 'Ease Springs'",
+        "Operate the bolt release catch",
+        "Operate the trigger",
+        "Close the ejection opening"
+      ],
+      "Functions Test": [
+        "Cock the rifle",
+        "Set the safety catch to 'S'",
+        "Attempt to operate the trigger",
+        "Set the safety catch to 'Semi'",
+        "Operate the trigger and keep it depressed",
+        "Cock the rifle",
+        "Release the trigger and listen for the safety sear engaging",
+        "Set the safety catch to 'Auto'",
+        "Cock the rifle",
+        "Operate the trigger and keep it depressed",
+        "Cock the rifle, note the hammer stiking the firing pin",
+        "Release the trigger",
+        "Set the safety catch to 'Semi'",
+        "Close the ejection opening"
+      ],
+      "Load": [
+        "Unfasten ammunition pouch",
+        "Remove magazine from pouch and ensure the top round is seated correctly",
+        "Insert the magazine into the magazine housing",
+        "Fasten ammunition pouch"
+      ],
+      "Ready": [
+        "Check sights",
+        "Cock the rifle",
+        "Tap forward assist.",
+        "Set the safety catch to 'S'"
+      ],
+      "Unload": [
+        "Attempt to set the safety catch to 'S'",
+        "Operate the magazine release catch to remove the magazine",
+        "Place magazine away in ammunition pouch",
+        "Pull the cocking handle to the rear and push in the bolt release catch",
+        "Push the cocking handle forward and tily the rifle to the left",
+        "Inspect the bolt, body and chamber for any ammunition. Ensure there is no magazine fitted",
+        "Operate the bolt release catch",
+        "Set the safety catch to 'Semi'",
+        "Operate the trigger",
+        "Close the ejection opening"
+      ]
+    },
+    "Images": [
+      "sfiw1",
+      "A Special Forces Operator wields his SFIW on operations.",
+      "sfiw2",
+      "The A2 Carbine used during a hostage situation by a member of 22 SAS.",
+      "sfiw3",
+      "Royal Marines training with the L119A1."
+    ],
+    "Sights": [
+      "ACOG TA31",
+      "Iron Sight"
+    ],
+    "Attachments": "The L129A1 Sharpshooter can be fitted with bipid legs and  fold down hand grip. It can also be fitted with a bayonet adapter for use in hand to hand combat.",
+    "Technical Data": {
+      "Calibre": "5.56mm",
+      "Length (Stock extended)": "1006mm",
+      "Length (Stock folded)": "926mm",
+      "Barrel Length": "508mm",
+      "Weight (weapon)": "3.3kg",
+      "Firing mode": "Semi & Fully Automatic",
+      "Feed": "Magazine",
+      "Muzzle velocity": "900m/s",
+      "Method of operation": "Gas"
+    },
+    "Stoppage Drills": {
+      "Immediate action": [
+        "Tilt the weapon to the left and look at the position of the bolt.",
+        "If the bolt is in any position other than fully to the rear, cock the rifle and push in the bolt release catch."
+      ],
+      "Loose magazine": [
+        "Ensure the magazine is fitted correctly",
+        "Operate bolt release catch",
+        "Resume firing"
+      ],
+      "Obstruction": [
+        "Remove the magazine",
+        "Clear the obstruction",
+        "Replace the magazine",
+        "Operate the bolt release catch",
+        "Forward assist",
+        "Resume firing"
+      ],
+      "Empty Magazine": [
+        "Change the magazine",
+        "Operate the bolt release catch",
+        "Forward assist",
+        "Resume firing"
+      ]
+    }
+  },
   "L81A2": {
     "NPDs": [
       "ctrnpd1"
@@ -785,118 +897,6 @@
       "Empty Magazine": [
         "Change the magazine",
         "Operate the bolt release catch",
-        "Resume firing"
-      ]
-    }
-  },
-  "L119A2": {
-    "NPDs": [
-      "sfiw1",
-      "sfiw2"
-    ],
-    "Name": "Special Forces Individual Weapon",
-    "Calibre": "5.56",
-    "Range": "Accurate fire out to 400 metres, supressing fire out to 600 metres.",
-    "Designation": "L119A2",
-    "Description": "The 5.56mm Special Forces Individual Weapon (SFIW) is used by both UK Special Forces and Special Operations Forces. Manufactured by Colt Canada, they are designated L119A2 respectively by the UK. Configured with standard barrel or a shorter carbine variant, these weapon systems are ideally suited for SF taskings. The SFIW has many configurations with a multitude of attachments and sighting systems, for security reasons only the 'off the shelf' rifle is described here.",
-    "Drills": {
-      "Normal Safety Precautions (NSPs)": [
-        "Pull the cocking handle to the rear",
-        "Push in the bolt release catch",
-        "Push the cocking handle fully forward",
-        "Check the bolt, body and chamber are clear of any obstructions or rounds",
-        "If under instruction, wait for the words of command 'Ease Springs'",
-        "Operate the bolt release catch",
-        "Operate the trigger",
-        "Close the ejection opening"
-      ],
-      "Functions Test": [
-        "Cock the rifle",
-        "Set the safety catch to 'S'",
-        "Attempt to operate the trigger",
-        "Set the safety catch to 'Semi'",
-        "Operate the trigger and keep it depressed",
-        "Cock the rifle",
-        "Release the trigger and listen for the safety sear engaging",
-        "Set the safety catch to 'Auto'",
-        "Cock the rifle",
-        "Operate the trigger and keep it depressed",
-        "Cock the rifle, note the hammer stiking the firing pin",
-        "Release the trigger",
-        "Set the safety catch to 'Semi'",
-        "Close the ejection opening"
-      ],
-      "Load": [
-        "Unfasten ammunition pouch",
-        "Remove magazine from pouch and ensure the top round is seated correctly",
-        "Insert the magazine into the magazine housing",
-        "Fasten ammunition pouch"
-      ],
-      "Ready": [
-        "Check sights",
-        "Cock the rifle",
-        "Tap forward assist.",
-        "Set the safety catch to 'S'"
-      ],
-      "Unload": [
-        "Attempt to set the safety catch to 'S'",
-        "Operate the magazine release catch to remove the magazine",
-        "Place magazine away in ammunition pouch",
-        "Pull the cocking handle to the rear and push in the bolt release catch",
-        "Push the cocking handle forward and tily the rifle to the left",
-        "Inspect the bolt, body and chamber for any ammunition. Ensure there is no magazine fitted",
-        "Operate the bolt release catch",
-        "Set the safety catch to 'Semi'",
-        "Operate the trigger",
-        "Close the ejection opening"
-      ]
-    },
-    "Images": [
-      "sharpshooter11",
-      "The L129A1 Sharpshooter rifle, fitted with ACOG L25A1",
-      "sfiw2",
-      "A marksman aims his L129A1 during a live firing exercise",
-      "sharpshooter3",
-      "Sharpshooter rifle fitted with the Magnum Universal Night Sight (MUNS)"
-    ],
-    "Sights": [
-      "ACOG TA31",
-      "Iron Sight"
-    ],
-    "Attachments": "The L129A1 Sharpshooter can be fitted with bipid legs and  fold down hand grip. It can also be fitted with a bayonet adapter for use in hand to hand combat.",
-    "Technical Data": {
-      "Calibre": "5.56mm",
-      "Length (Stock extended)": "1006mm",
-      "Length (Stock folded)": "926mm",
-      "Barrel Length": "508mm",
-      "Weight (weapon)": "3.3kg",
-      "Firing mode": "Semi & Fully Automatic",
-      "Feed": "Magazine",
-      "Muzzle velocity": "900m/s",
-      "Method of operation": "Gas"
-    },
-    "Stoppage Drills": {
-      "Immediate action": [
-        "Tilt the weapon to the left and look at the position of the bolt.",
-        "If the bolt is in any position other than fully to the rear, cock the rifle and push in the bolt release catch."
-      ],
-      "Loose magazine": [
-        "Ensure the magazine is fitted correctly",
-        "Operate bolt release catch",
-        "Resume firing"
-      ],
-      "Obstruction": [
-        "Remove the magazine",
-        "Clear the obstruction",
-        "Replace the magazine",
-        "Operate the bolt release catch",
-        "Forward assist",
-        "Resume firing"
-      ],
-      "Empty Magazine": [
-        "Change the magazine",
-        "Operate the bolt release catch",
-        "Forward assist",
         "Resume firing"
       ]
     }
