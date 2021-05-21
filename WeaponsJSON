@@ -1271,7 +1271,7 @@
       "hmgnpd2"
     ],
     "Calibre": ".50",
-    "Range": 1800,
+    "Range": "The HMG has a planning range of 1800 metres. The maximum range is considerable further (~7km), but the loss of accuracy makes in unviable at ranges beyond 2000m.",
     "Designation": "L111A1",
     "Description": "The M2 machine gun or Browning .50 caliber machine gun is a heavy machine gun designed towards the end of WW1. It is used as a fire support weapon system which can be fired from both tripod and vehicle mounts. There are different variants used for use on ship or from helicopter mounts. The L11A1 is a powerful weapon system with an array of different ammunition types avaliable including high explosive (HE) and armour piercing (AP).",
     "Drills": {
@@ -1412,6 +1412,210 @@
         "Cock the gun",
         "Re-align",
         "Re-engage"
+      ]
+    }
+  },
+  "L134A1": {
+    "Name": "Grenade Machine Gun (GMG)",
+    "NPDs": [
+      "gmgnpd1",
+      "gmgnpd2"
+    ],
+    "Calibre": "40",
+    "Range": "The GMG has a maximum range of 2200 metres. Accurate fire against point targets out to 1500 metres and harrassing fire against area targets up to 2000 metres. ",
+    "Designation": "L134A1",
+    "Description": "The Heckler & Koch Grenade Machine Gun (GMG) is a German made automatical grenade launcher. It fires belts of 40mm grenades at a rate of 340 per minute.",
+    "Drills": {
+      "Normal Safety Precautions (NSPs)": [
+        "Check that the safety catch is set to 'S'",
+        "Lift the top feed cover",
+        "Cock the gun & return it to the forward position",
+        "Inspect the bolt, body & chamber",
+        "Close the feed cover",
+        "Set the safety catch to 'R'",
+        "Operage the trigger",
+        "Set the safety catch to 'S'"
+      ],
+      "Function Test": [
+        "Set the safety catch to 'S'",
+        "Use both triggers, attempt to fire the gun",
+        "Put the safety catch to 'R'",
+        "Operate the trigger and keep it depressed",
+        "Cock the gun & listen for the sear engaging",
+        "Release the trigger",
+        "Operate the trigger",
+        "Set the safety catch to 'A'",
+        "Hold in the trigger",
+        "Cock the gun a few times",
+        "Set the safety catch to 'S'",
+        "Inspect the firing pin to ensure it is protruding"
+      ],
+      "Load": [
+        "Gunner is to ensure the safety catch is set to 'S'",
+        "Gunner orders 'Load'",
+        "No2 inserts the belt (male link first) into the feed throat."
+      ],
+      "Action on range being ordered/Ready": [
+        "Ensure the safety catch is set to safe",
+        "Set the sights",
+        "Cock the gun and return the cocking handle to the forward position",
+        "Await further orders"
+      ],
+      "Unload": [
+        "Gunner is to ensure the safety catch is set to 'S'",
+        "Cock the gun and order 'Unload'",
+        "No2 open the feed cover",
+        "Remove the belt and inspect to bolt, body and chamber",
+        "Close the feed cover and report 'Clear'",
+        "Gunner sets the sfety catch to 'R'",
+        "Operate the trigger",
+        "Set the safety catch to 'S'",
+        "Lower the sights"
+      ]
+    },
+    "Images": [
+      "gmg1",
+      "Grenade Machine Gun mounted to a Jackal Supacat",
+      "gmg2",
+      "The L134A1 H7K Grenade Machine Gun",
+      "gmg3",
+      "USMC practice range work with the GMG"
+    ],
+    "Sights": [
+      "Iron Sight",
+      "ACOG TA648",
+      "Kite (CWS)",
+      "Maxikite 2",
+      "C2A2 Support Weapon Sight"
+    ],
+    "Attachments": "n/a",
+    "Technical Data": {
+      "GMG (without Gun Cradle)": "",
+      "Length": "1180 mm",
+      "Width": "226 mm",
+      "Height": "208 mm",
+      "Mechanical Sight, folded up/down": "412/364 mm",
+      "Barrel": "",
+      "Length (without Flash Suppressor)": "476 mm",
+      "Length of the Rifled Section": "415 mm",
+      "Twist Length (constant right handed)": "1210 mm",
+      "Number of Grooves ": "24",
+      "Height of GMG (above ground)": "",
+      "Minimum ": "550 mm",
+      "Maximum ": "1495 mm",
+      "Weights": "",
+      "Grenade Machine Gun ": "29 kg",
+      "Gun Cradle with ACOG Sight ": "12.3 kg",
+      "Total": "60 kg",
+      "Gas Pressure": "950 bar (95 MPa)",
+      "Muzzle Velocity (Vo)": "240 m/s",
+      "Rate of Fire 350": "rounds/min",
+      "Maximum Firing Range": "2200 m"
+    },
+    "Stoppage Drills": {
+      "Immediate action": [
+        "Cock the gun",
+        "Raise the feed cover",
+        "Remove the belt",
+        "Inspect the chamber & bolt",
+        "Close feed cover",
+        "Operate the trigger",
+        "Re-load",
+        "Re-cock",
+        "Re-engage",
+        "If the gun does not fire, cock the gun, unload the belt, inspect the body and carry out the relevant stoppage drill"
+      ],
+      "Gun Cannot Be Cocked": [
+        "Gunner pulls the cocking handle as far as it will go and holds it",
+        "Apply the friction brake",
+        "Release cocking handle",
+        "No2 open the feed cover & remove the belt",
+        "Inspect the gun, ensuring it is clear",
+        "Check the feed pawls are moving correctly",
+        "Gunner grasps the cocking handle",
+        "Release the friction brake",
+        "Cock the gun"
+      ],
+      "Runaway Gun": [
+        "Keep the gun pointing in a safe (or enemy) direction",
+        "Set the safety catch to 'S'",
+        "Wait for the gun to stop firing",
+        "Do not use the weapon until inspected by unit armourer"
+      ],
+      "Obstruction in the Body/Chamber Clear": [
+        "Remove the obstruction",
+        "Close the feed cover",
+        "Operate the trigger",
+        "Re-load",
+        "Re-align",
+        "Re-cock",
+        "Re-engage"
+      ],
+      "Live Round in the Chamber": [
+        "Close the feed cover",
+        "Operate the trigger (a grenade may be fired)",
+        "If the gun fires, operate the trigger to move the bolt forward",
+        "If the gun does not fire, extract the faulty grenade using correct tool",
+        "Re-load",
+        "Re-align",
+        "Re-cock",
+        "Re-engage"
+      ],
+      "Empty Case in the Chamber": [
+        "Close the feed cover",
+        "Operate the trigger to move the bolt forward",
+        "Strip the gun",
+        "Inspect extractor & springs - if damaged await armourer",
+        "Re-assemble the gun & carry out the function test",
+        "Cock the gun",
+        "Operate the trigger",
+        "Cock the gun to remove the empty case",
+        "Raise the feed cover",
+        "Inspect the body & chamber",
+        "Close the feed cover",
+        "Cock the gun",
+        "Operate the trigger to move the bolt forward",
+        "Re-load",
+        "Re-align",
+        "Re-cock",
+        "Re-engage"
+      ],
+      "No Visible Obstruction": [
+        "Close the feed cover",
+        "Operate the trigger to move the bolt forward",
+        "Inspect firing pin tip for damage",
+        "If there is excessive dirt - strip the gun and clean it.",
+        "If there is damage - await armourer",
+        "If there is no excessive dirt or damage - assume misfired round",
+        "Re-load",
+        "Re-align",
+        "Re-cock",
+        "Re-engage"
+      ],
+      "Damaged or Broken Parts": [
+        "If all previous stoppage drills have not cleared the stoppage:",
+        "Unload the gun",
+        "Strip the gun",
+        "Examine the ejected rounds for the following:",
+        "Cartridge not struck properly - Dirty or weak recoil spring",
+        "Repeated failure to eject - Dirty or broken ejector",
+        "Failure to feed - Dirty or broken feed rollers",
+        "If any of the above is damaged, consult an armourer",
+        "Once cleaned, re-assemble the gun & carry out the function test",
+        "Re-load",
+        "Re-align",
+        "Re-cock",
+        "Re-engage"
+      ],
+      "Obstruction in the Bore": [
+        "If during firing a muffled shot or a round fails to leave the barrel:",
+        "Set the safety catch to 'S'",
+        "Move back 5metres from the gun",
+        "Wait for 30 minutes",
+        "Unload the gun",
+        "Strip the gun",
+        "Remove the bolt and check for any obstruction in the bore",
+        "If there is an obstruction, do not use the gun and await qualified Ammunition Technicians"
       ]
     }
   }
