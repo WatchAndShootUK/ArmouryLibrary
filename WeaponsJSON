@@ -1263,5 +1263,156 @@
         "Dispose of the weapon as a misfire"
       ]
     }
+  },
+  "L111A1": {
+    "Name": "Heavy Machine Gun (HMG)",
+    "NPDs": [
+      "hmgnpd1",
+      "hmgnpd2"
+    ],
+    "Calibre": ".50",
+    "Range": 1800,
+    "Designation": "L111A1",
+    "Description": "The M2 machine gun or Browning .50 caliber machine gun is a heavy machine gun designed towards the end of WW1. It is used as a fire support weapon system which can be fired from both tripod and vehicle mounts. There are different variants used for use on ship or from helicopter mounts. The L11A1 is a powerful weapon system with an array of different ammunition types avaliable including high explosive (HE) and armour piercing (AP).",
+    "Drills": {
+      "Normal safety precautions (NSPs)": [
+        "The gunner checks that both the safety catch on the gun, if fitted, and the soft mount are set to ‘S’.",
+        "The gunner checks the bolt latch release is unlocked.",
+        "The No. 2 lifts the top cover. The gunner cocks the gun and ensures that the cocking handle is returned to the fully forward position.",
+        "The gunner checks that there is no round in either the chamber or the ‘T’ slot of the bolt assembly and reports “Gun Clear” to the gun controller who should then confirm.",
+        "Once the gun has been cleared or on the command 'Ease Springs'.",
+        "Pull the cocking handle fully to the rear, operate the bolt latch release and allow the bolt assembly to go forward under control.",
+        "Close the top cover.",
+        "Set the soft mount safety catch to ‘F’.",
+        "Operate the trigger and then set the soft mount safety catch to ‘S’."
+      ],
+      "Function Test": [
+        "Lock the Bolt latch release",
+        "Cock the gun, ensuring the bolt goes fully forward.",
+        "Set the mount safety catch to ‘S’ and operate the trigger. The sear release lever should not pivot.",
+        "Set the mount safety catch to ‘F’ and operate the trigger. The sear release lever should pivot and the firing pin move forward.",
+        "Open the top cover and check, by looking down the ‘T’ slot, that the firing pin is protruding.",
+        "Unlock the Bolt latch release.",
+        "If the trigger fails to operate correctly or the firing pin is not protruding the weapon is to be sent to the armourer for repair.",
+        "Lock the Bolt latch release.",
+        "Cock the gun, ensuring the bolt goes fully forward.",
+        "Set the gun safety catch to ‘S’ and operate the trigger. The sear release lever should not pivot.",
+        "Set the gun safety catch to ‘F’ and operate the trigger. The sear release lever should pivot and the firing pin move forward.",
+        "Open the top cover and check, by looking down the ‘T’ slot, that the firing pin is protruding.",
+        "Unlock the Bolt latch release."
+      ],
+      "Load": [
+        "The gunner is to ensure the soft mount safety catch is set to ‘S’, lock the bolt latch release, open the top cover and raise the extractor.",
+        "The No. 2 checks that the ammunition is the correct type for the task.",
+        "The No. 2 is to position the belt onto the feed way with the first round near the cartridge stop, lower the extractor so that its claw engages the groove or the first round and then close the top cover."
+      ],
+      "Action on range being ordered / Ready": [
+        "Set the sights correctly",
+        "Cock the gun"
+      ],
+      "Unload": [
+        "The gunner is to ensure the soft mount safety catch is set to ‘S’, unlock the bolt latch release and open the top cover.",
+        "The No. 2 is to lift the extractor, remove the belt from the gun, clear the feed way and lower the extractor.",
+        "The gunner is then to cock the gun and inspect the chamber, body and ‘T’ slot on the bolt to ensure that they are clear.",
+        "Inspect the chamber, body and ‘T’ slot again. ",
+        "Release the working parts ensuring that they go forward under control.",
+        "Close the top cover.",
+        "Set the mount safety catch to ‘F’.",
+        "Operate the trigger.",
+        "Set the mount safety catch to ‘S’.",
+        "Lower the sights."
+      ]
+    },
+    "Images": [
+      "hmg1",
+      "The L11A1 .50 Heavy Machine Gun.",
+      "hmg2",
+      "An American Browning M2 modified for Naval use.",
+      "hmg3",
+      "The HMG mounted to a WMIK platform. "
+    ],
+    "Sights": [
+      "Iron Sight",
+      "ACOG TA648",
+      "Kite (CWS)",
+      "Maxikite 2"
+    ],
+    "Attachments": "n/a",
+    "Technical Data": {
+      "Calibre": "12.7mm",
+      "Length": "1654mm",
+      "Weight (weapon)": "38kg",
+      "Weight (weapon & tripod)": "58kg",
+      "Rifling": "8 grooves RH twist, 1 turn in 380mm",
+      "Muzzle Velocity": "863m/s",
+      "Rate of Fire": "500rpm"
+    },
+    "Stoppage Drills": {
+      "Immediate Action": [
+        "Check that the bolt latch release lock is in the correct position for the task, the top cover is closed and the belt is correctly fitted.",
+        "Cock the gun, operate the bolt latch release if necessary, re-lay then continue firing.",
+        "Further Action: If the gun does not fire, unload, inspect the chamber and carry out the relevant stoppage drill."
+      ],
+      "Obstruction in the Body": [
+        "Clear the obstruction",
+        "Inspect the body and chamber",
+        "Operate the bolt release",
+        "Load the gun",
+        "Cock the gun",
+        "Re-align",
+        "Re-engage"
+      ],
+      "Barrel Obstruction": [
+        "Do not use barrel until it has been inspected by an armourer"
+      ],
+      "A Separated Case ": [
+        "Re-assemble the gun ",
+        "Raise the Top Cover",
+        "Clear the seperated case using the clearing plug",
+        "Cock the gun",
+        "Ensure seperate case has been cleared",
+        "Load the gun",
+        "Cock the gun",
+        "Re-align",
+        "Re-engage"
+      ],
+      "No Obstruction or Separated Case Visible": [
+        "If the barrel is clear replace it and inspect the ejected round Subsequent action will depend on what is seen",
+        "Cap Struck: Place round to one side",
+        "Cap Not Struck: Inspect and if required replace the firing pin, driving rod and spring, extractor claw & feed mechanism",
+        "Load the gun",
+        "Cock the gun",
+        "Re-align",
+        "Re-engage"
+      ],
+      "The Gun Cannot be Cocked": [
+        "Close the top cover",
+        "Dress away from the gun",
+        "Wait 5 minutes (in case of cook off)",
+        "Conduct the Further Action Drill"
+      ],
+      "Irregular Rate of Fire": [
+        "If the rate of fire is too low:",
+        "Lubricate the working parts",
+        "If that fails to fix the fault:",
+        "Strip and clean the gun",
+        "Re-assemble",
+        "Load the gun",
+        "Cock the gun",
+        "Re-align",
+        "Re-engage"
+      ],
+      "Runaway Gun": [
+        "Unlock the bolt latch release",
+        "No 2 is tear off the belt",
+        "Once the gun has stopped firing, unload",
+        "Remove the bolt and trigger bar and replace any broken parts",
+        "Re-assemble",
+        "Load the gun",
+        "Cock the gun",
+        "Re-align",
+        "Re-engage"
+      ]
+    }
   }
 }
