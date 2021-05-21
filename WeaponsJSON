@@ -1419,7 +1419,8 @@
     "Name": "Grenade Machine Gun (GMG)",
     "NPDs": [
       "gmgnpd1",
-      "gmgnpd2"
+      "gmgnpd2",
+      "gmgnpd3"
     ],
     "Calibre": "40",
     "Range": "The GMG has a maximum range of 2200 metres. Accurate fire against point targets out to 1500 metres and harrassing fire against area targets up to 2000 metres. ",
@@ -1474,11 +1475,11 @@
       ]
     },
     "Images": [
-      "gmg3",
+      "gmg11",
       "Grenade Machine Gun mounted to a Jackal Supacat",
       "gmg2",
       "The L134A1 H7K Grenade Machine Gun",
-      "gmg1",
+      "gmg33",
       "USMC practice range work with the GMG"
     ],
     "Sights": [
