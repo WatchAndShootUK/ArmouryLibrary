@@ -903,13 +903,13 @@
   },
   "AK47": {
     "NPDs": [
-      "sharpshooter1",
-      "sharpshooter2"
+      "ak47npd1",
+      "ak47npd2"
     ],
-    "Name": "AK47",
+    "Name": " ",
     "Calibre": "7.62",
     "Range": "The effective range of the AK47 is 350 metres.",
-    "Designation": "NSPLW",
+    "Designation": "AK47",
     "Description": "The AK47 is a mass produced Soviet era rifle in service world wide since the 1950s. It is relatively short ranged compared to Western small-arms rifles but it is easy and cheap to replicate. There are variants of Mikhail Kalashnikov's 7.62 short AK47 including the AKS, which has a folding stock, the AKM, which has improved accuracy and the AKMS; folding stock and improved accuracy.",
     "Drills": {
       "Normal Safety Precautions (NSPs)": [
@@ -958,14 +958,14 @@
     },
     "Images": [
       "ak471",
-      "The L129A1 Sharpshooter rifle, fitted with ACOG L25A1",
+      "The AK47 being used by the Afghanistan National Army.",
       "ak472",
-      "A marksman aims his L129A1 during a live firing exercise",
+      "The AKMS with a folding stock, favoured amongst airbourne units.",
       "ak473",
-      "Sharpshooter rifle fitted with the Magnum Universal Night Sight (MUNS)"
+      "Tactical AK47 variants, note the carbine barrel on the bottom rifle."
     ],
     "Sights": [
-      "Iron Sights"
+      "Iron Sight"
     ],
     "Attachments": "The AK47 can be fitted with a multitude of different attachments depending on the exact variant, of which there are dozens.",
     "Technical Data": {
