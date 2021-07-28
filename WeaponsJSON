@@ -731,6 +731,182 @@
       ]
     }
   },
+  "AK74": {
+    "NPDs": [
+      "ak74npd1"
+    ],
+    "Name": "Avtomat Kalashnikova",
+    "Calibre": "5.56",
+    "Range": "The effective range of the AK74 is 500 metres.",
+    "Designation": "AK74",
+    "Description": "The AK74 is an upgraded variant of the AK47. It is similiar in nearly all aspects as the improved AKM, but uses smaller calibre ammunition. The range is signicantly increased because of this. The AK74 is the primary assault rifle in most former Soviet countries and first saw service in the Afghanistan-Russia conflict during the 1980s. It is said that during that conflict, the CIA put a $5000 reward on the first to deliver to them a fully functional AK74, as this was the first time they've been used in active service. The AK74U is a carbine version. The easiest way to identify an AK74 apart from an AK47 is a longer barrel and the addition of a flash eliminator.",
+    "Drills": {
+      "Normal Safety Precautions (NSPs)": [
+        "Set the change lever to 'SAFE'",
+        "If fitted, remove the magazine",
+        "Set the change lever to 'SINGLE'",
+        "Pull the cocking handle to the rear",
+        "Inspect the bolt, body and chamber of the rifle ensuring there are no rounds present",
+        "Release the cocking handle, allowing the working parts to go forward",
+        "Operate the trigger",
+        "Set the change lever to 'SAFE'"
+      ],
+      "Load": [
+        "Set the change lever to 'SAFE'",
+        "Remove magazine from pouch and ensure the top round is seated correctly",
+        "Insert the magazine into the magazine housing"
+      ],
+      "Ready": [
+        "Set the sights to the correct range",
+        "Set the change lever to 'SINGLE'",
+        "Cock the rifle",
+        "If not immediately firing, set the change lever to 'SAFE'"
+      ],
+      "Unload": [
+        "Ensure the change lever is set to 'SAFE'",
+        "Remove the magazine and place it away",
+        "Set the change lever to 'SINGLE'",
+        "Keep the rifle level and pull the cocking handle to the rear",
+        "Tilt the rifle to the left and inspect the bolt, body and chamber",
+        "Release the cocking handle",
+        "Operate the trigger",
+        "Set the change lever to 'SAFE'",
+        "Pick up any ejected rounds and place them in the magazine"
+      ]
+    },
+    "Images": [
+      "ak741",
+      "The AK74 in service with the Russian Armed Forces",
+      "ak742",
+      "The creator, Mikhail Kalashnikov, handling an AK74",
+      "ak743",
+      "AK74 with a 30 round 5.56 magazine"
+    ],
+    "Sights": [
+      "Iron Sight"
+    ],
+    "Attachments": "The AK74 can be fitted with a multitude of different attachments depending on the exact variant, of which there are dozens. Attachments include Bayonette, torch & UGL.",
+    "Technical Data": {
+      "Calibre": "5.56mm",
+      "Length": "943mm",
+      "Weight (weapon)": "3.3kg",
+      "Firing mode": "Semi-Automatic or Fully Automatic",
+      "Feed": "Magazine",
+      "Muzzle velocity": "900m/s",
+      "Method of operation": "Gas"
+    },
+    "Stoppage Drills": {
+      "Immediate action": [
+        "Cock the weapon and inspect the chamber, depending on what you see - carry out the relevant drill"
+      ],
+      "Loose magazine": [
+        "Ensure the magazine is fitted correctly",
+        "Cock the rifle",
+        "Resume firing"
+      ],
+      "Obstruction": [
+        "Remove the magazine",
+        "Clear the obstruction",
+        "Pull the cocking handle to the rear and ensure the chamber is clear of any obstruction",
+        "Replace the magazine",
+        "Cock the rifle",
+        "Resume firing"
+      ],
+      "Empty Magazine": [
+        "Change the magazine",
+        "Cock the rifle",
+        "Resume firing"
+      ]
+    }
+  },
+  "RPK": {
+    "NPDs": [
+      "rpknpd1"
+    ],
+    "Name": "Kalashnikov LMG",
+    "Calibre": "7.62",
+    "Range": "The effective range of the RPK is 1000 metres.",
+    "Designation": "RPK",
+    "Description": "The RPK is a modified AK47, used as a squad support weapon. It has a longer and thicker barrel than the AK47, allowed it to engage targets for longer periods at a rapid rate of fire. A tripod enables the weapon to sustain accurate fire out to 1000 metres. It is comparable to the now out of service LSW, albeit a larger calibre. It is fed via 40 round magazine or 75 round drum. The RPK-74 is the adapted version of the AK74 and is 5.56 in calibre.",
+    "Drills": {
+      "Normal Safety Precautions (NSPs)": [
+        "Set the change lever to 'SAFE'",
+        "If fitted, remove the magazine",
+        "Set the change lever to 'SINGLE'",
+        "Pull the cocking handle to the rear",
+        "Inspect the bolt, body and chamber of the rifle ensuring there are no rounds present",
+        "Release the cocking handle, allowing the working parts to go forward",
+        "Operate the trigger",
+        "Set the change lever to 'SAFE'"
+      ],
+      "Load": [
+        "Set the change lever to 'SAFE'",
+        "Remove magazine from pouch and ensure the top round is seated correctly",
+        "Insert the magazine into the magazine housing"
+      ],
+      "Ready": [
+        "Set the sights to the correct range",
+        "Set the change lever to 'SINGLE'",
+        "Cock the rifle",
+        "If not immediately firing, set the change lever to 'SAFE'"
+      ],
+      "Unload": [
+        "Ensure the change lever is set to 'SAFE'",
+        "Remove the magazine and place it away",
+        "Set the change lever to 'SINGLE'",
+        "Keep the rifle level and pull the cocking handle to the rear",
+        "Tilt the rifle to the left and inspect the bolt, body and chamber",
+        "Release the cocking handle",
+        "Operate the trigger",
+        "Set the change lever to 'SAFE'",
+        "Pick up any ejected rounds and place them in the magazine"
+      ]
+    },
+    "Images": [
+      "rpk1",
+      "The RPK Squad Automatic Weapon (SAW)",
+      "rpk2",
+      "An elite Spetznaz operator with a modern RPK-16",
+      "rpk3",
+      "An Iraqi soldier wields his RPK"
+    ],
+    "Sights": [
+      "Iron Sight"
+    ],
+    "Attachments": "The RPK has a threaded barrel to enable the attachment of a flash eliminator. The sights also have a windage knob for accurate engagement at longer distances. ",
+    "Technical Data": {
+      "Calibre": "7.62mm (RPK74 5.56mm)",
+      "Length": "1040mm",
+      "Weight (weapon)": "5.3kg",
+      "Firing mode": "Semi-Automatic or Fully Automatic",
+      "Feed": "Straight or Drum Magazine",
+      "Muzzle velocity": "745m/s",
+      "Method of operation": "Gas"
+    },
+    "Stoppage Drills": {
+      "Immediate action": [
+        "Cock the weapon and inspect the chamber, depending on what you see - carry out the relevant drill"
+      ],
+      "Loose magazine": [
+        "Ensure the magazine is fitted correctly",
+        "Cock the rifle",
+        "Resume firing"
+      ],
+      "Obstruction": [
+        "Remove the magazine",
+        "Clear the obstruction",
+        "Pull the cocking handle to the rear and ensure the chamber is clear of any obstruction",
+        "Replace the magazine",
+        "Cock the rifle",
+        "Resume firing"
+      ],
+      "Empty Magazine": [
+        "Change the magazine",
+        "Cock the rifle",
+        "Resume firing"
+      ]
+    }
+  },
   "L81A2": {
     "NPDs": [
       "ctrnpd1"
@@ -963,94 +1139,6 @@
       "Firing mode": "Semi-Automatic or Fully Automatic",
       "Feed": "Magazine",
       "Muzzle velocity": "715m/s",
-      "Method of operation": "Gas"
-    },
-    "Stoppage Drills": {
-      "Immediate action": [
-        "Cock the weapon and inspect the chamber, depending on what you see - carry out the relevant drill"
-      ],
-      "Loose magazine": [
-        "Ensure the magazine is fitted correctly",
-        "Cock the rifle",
-        "Resume firing"
-      ],
-      "Obstruction": [
-        "Remove the magazine",
-        "Clear the obstruction",
-        "Pull the cocking handle to the rear and ensure the chamber is clear of any obstruction",
-        "Replace the magazine",
-        "Cock the rifle",
-        "Resume firing"
-      ],
-      "Empty Magazine": [
-        "Change the magazine",
-        "Cock the rifle",
-        "Resume firing"
-      ]
-    }
-  },
-  "AK74": {
-    "NPDs": [
-      "ak74npd1"
-    ],
-    "Name": "Avtomat Kalashnikova",
-    "Calibre": "5.56",
-    "Range": "The effective range of the AK47 is 500 metres.",
-    "Designation": "AK74",
-    "Description": "The AK74 is an upgraded variant of the AK47. It is similiar in nearly all aspects as the improved AKM, but uses smaller calibre ammunition. The range is signicantly increased because of this. The AK74 is the primary assault rifle in most former Soviet countries and first saw service in the Afghanistan-Russia conflict during the 1980s. It is said that during that conflict, the CIA put a $5000 reward on the first to deliver to them a fully functional AK74, as this was the first time they've been used in active service. The AK74U is a carbine version. The easiest way to identify an AK74 apart from an AK47 is a longer barrel and the addition of a flash eliminator.",
-    "Drills": {
-      "Normal Safety Precautions (NSPs)": [
-        "Set the change lever to 'SAFE'",
-        "If fitted, remove the magazine",
-        "Set the change lever to 'SINGLE'",
-        "Pull the cocking handle to the rear",
-        "Inspect the bolt, body and chamber of the rifle ensuring there are no rounds present",
-        "Release the cocking handle, allowing the working parts to go forward",
-        "Operate the trigger",
-        "Set the change lever to 'SAFE'"
-      ],
-      "Load": [
-        "Set the change lever to 'SAFE'",
-        "Remove magazine from pouch and ensure the top round is seated correctly",
-        "Insert the magazine into the magazine housing"
-      ],
-      "Ready": [
-        "Set the sights to the correct range",
-        "Set the change lever to 'SINGLE'",
-        "Cock the rifle",
-        "If not immediately firing, set the change lever to 'SAFE'"
-      ],
-      "Unload": [
-        "Ensure the change lever is set to 'SAFE'",
-        "Remove the magazine and place it away",
-        "Set the change lever to 'SINGLE'",
-        "Keep the rifle level and pull the cocking handle to the rear",
-        "Tilt the rifle to the left and inspect the bolt, body and chamber",
-        "Release the cocking handle",
-        "Operate the trigger",
-        "Set the change lever to 'SAFE'",
-        "Pick up any ejected rounds and place them in the magazine"
-      ]
-    },
-    "Images": [
-      "ak741",
-      "The AK74 in service with the Russian Armed Forces",
-      "ak742",
-      "The creator, Mikhail Kalashnikov handling an AK74",
-      "ak743",
-      "AK74 with a 30 round 5.56 magazine"
-    ],
-    "Sights": [
-      "Iron Sight"
-    ],
-    "Attachments": "The AK74 can be fitted with a multitude of different attachments depending on the exact variant, of which there are dozens. Attachments include Bayonette, torch & UGL.",
-    "Technical Data": {
-      "Calibre": "5.56mm",
-      "Length": "943mm",
-      "Weight (weapon)": "3.3kg",
-      "Firing mode": "Semi-Automatic or Fully Automatic",
-      "Feed": "Magazine",
-      "Muzzle velocity": "900m/s",
       "Method of operation": "Gas"
     },
     "Stoppage Drills": {
