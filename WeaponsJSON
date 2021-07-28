@@ -624,7 +624,7 @@
       "sfiwnpd1",
       "sfiwnpd2"
     ],
-    "Name": "Special Forces Individual Weapon",
+    "Name": "SF Individual Weapon",
     "Calibre": "5.56",
     "Range": "Accurate fire out to 400 metres, supressing fire out to 600 metres.",
     "Designation": "L119A2",
@@ -875,6 +875,106 @@
       "Firing mode": "Semi-Automatic",
       "Feed": "Magazine",
       "Muzzle velocity": "754m/s",
+      "Method of operation": "Gas"
+    },
+    "Stoppage Drills": {
+      "Immediate action": [
+        "Tilt the weapon to the left and look at the position of the bolt.",
+        "If the bolt is in any position other than fully to the rear, cock the rifle and push in the bolt release catch."
+      ],
+      "Loose magazine": [
+        "Ensure the magazine is fitted correctly",
+        "Operate bolt release catch",
+        "Resume firing"
+      ],
+      "Obstruction": [
+        "Remove the magazine",
+        "Clear the obstruction",
+        "Replace the magazine",
+        "Operate the bolt release catch",
+        "Resume firing"
+      ],
+      "Empty Magazine": [
+        "Change the magazine",
+        "Operate the bolt release catch",
+        "Resume firing"
+      ]
+    }
+  },
+  "AK47": {
+    "NPDs": [
+      "sharpshooter1",
+      "sharpshooter2"
+    ],
+    "Name": "AK47",
+    "Calibre": "7.62",
+    "Range": "The effective range of the AK47 is 350 metres.",
+    "Designation": "NSPLW",
+    "Description": "The AK47 is a mass produced Soviet era rifle in service world wide since the 1950s. It is relatively short ranged compared to Western small-arms rifles but it is easy and cheap to replicate. There are variants of Mikhail Kalashnikov's 7.62 short AK47 including the AKS, which has a folding stock, the AKM, which has improved accuracy and the AKMS; folding stock and improved accuracy.",
+    "Drills": {
+      "Normal Safety Precautions (NSPs)": [
+        "Pull the cocking handle to the rear",
+        "Push in the bolt release catch",
+        "Push the cocking handle fully forward",
+        "Check the bolt, body and chamber are clear of any obstructions or rounds",
+        "If under instruction, wait for the words of command 'Ease Springs'",
+        "Operate the bolt release catch",
+        "Operate the trigger",
+        "Close the ejection opening"
+      ],
+      "Functions Test": [
+        "Cock the rifle",
+        "Set the safety catch to 'S'",
+        "Attempt to operate the trigger",
+        "Set the safety catch to 'F'",
+        "Operate the trigger and keep it depressed",
+        "Cock the rifle",
+        "Release the trigger and listen for the safety sear engaging",
+        "Operate the trigger",
+        "Close the ejection opening"
+      ],
+      "Load": [
+        "Unfasten ammunition pouch",
+        "Remove magazine from pouch and ensure the top round is seated correctly",
+        "Insert the magazine into the magazine housing",
+        "Fasten ammunition pouch"
+      ],
+      "Ready": [
+        "Cock the rifle",
+        "Set the safety catch to 'S'"
+      ],
+      "Unload": [
+        "Attempt to set the safety catch to 'S'",
+        "Operate the magazine release catch to remove the magazine",
+        "Place magazine away in ammunition pouch",
+        "Pull the cocking handle to the rear and push in the bolt release catch",
+        "Push the cocking handle forward and tily the rifle to the left",
+        "Inspect the bolt, body and chamber for any ammunition. Ensure there is no magazine fitted",
+        "Operate the bolt release catch",
+        "Set the safety catch to 'F'",
+        "Operate the trigger",
+        "Close the ejection opening"
+      ]
+    },
+    "Images": [
+      "ak471",
+      "The L129A1 Sharpshooter rifle, fitted with ACOG L25A1",
+      "ak472",
+      "A marksman aims his L129A1 during a live firing exercise",
+      "ak473",
+      "Sharpshooter rifle fitted with the Magnum Universal Night Sight (MUNS)"
+    ],
+    "Sights": [
+      "Iron Sights"
+    ],
+    "Attachments": "The AK47 can be fitted with a multitude of different attachments depending on the exact variant, of which there are dozens.",
+    "Technical Data": {
+      "Calibre": "7.62mm",
+      "Length": "880mm",
+      "Weight (weapon)": "3.5kg",
+      "Firing mode": "Semi-Automatic or Fully Automatic",
+      "Feed": "Magazine",
+      "Muzzle velocity": "715m/s",
       "Method of operation": "Gas"
     },
     "Stoppage Drills": {
