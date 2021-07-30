@@ -753,6 +753,9 @@
     "NPDs": [
       "ak74npd1"
     ],
+    "Nationality": [
+      "Russia"
+    ],
     "Name": "Avtomat Kalashnikova",
     "Calibre": "5.45",
     "Range": "The effective range of the AK74 is 500 metres.",
@@ -1017,6 +1020,9 @@
     "NPDs": [
       "ak47npd1"
     ],
+    "Nationality": [
+      "Russia"
+    ],
     "Name": "Avtomat Kalashnikova",
     "Calibre": "7.62",
     "Range": "The effective range of the AK47 is 350 metres.",
@@ -1213,6 +1219,9 @@
   "RPK": {
     "NPDs": [
       "rpknpd1"
+    ],
+    "Nationality": [
+      "Russia"
     ],
     "Name": "Kalashnikov LMG",
     "Calibre": "7.62",
