@@ -1,6 +1,9 @@
 {
   "L131A1": {
     "Name": "Glock",
+    "Nationality": [
+      "UK"
+    ],
     "Calibre": "0.9",
     "Range": "50 metres",
     "Designation": "L131A1",
@@ -104,6 +107,9 @@
     "NPDs": [
       "scorpion1"
     ],
+    "Nationality": [
+      "UK"
+    ],
     "Name": "Cadet Air Rifle",
     "Calibre": ".177",
     "Range": "10m",
@@ -204,6 +210,9 @@
     }
   },
   "L144A1": {
+    "Nationality": [
+      "UK"
+    ],
     "NPDs": [
       "csbtrnpd1"
     ],
@@ -312,6 +321,9 @@
       "l981",
       "l982",
       "l983"
+    ],
+    "Nationality": [
+      "UK"
     ],
     "Name": "SA80 (Cadet)",
     "Calibre": "5.56",
@@ -475,6 +487,9 @@
   },
   "L85A3": {
     "Name": "SA80",
+    "Nationality": [
+      "UK"
+    ],
     "Calibre": "5.56",
     "Range": "The effective range of the L85A3 is 300 metres as an individual and 600 metres as a section.",
     "Designation": "L85A3",
@@ -624,6 +639,9 @@
       "sfiwnpd1",
       "sfiwnpd2"
     ],
+    "Nationality": [
+      "UK"
+    ],
     "Name": "SF Individual Weapon",
     "Calibre": "5.56",
     "Range": "Accurate fire out to 400 metres, supressing fire out to 600 metres.",
@@ -736,7 +754,7 @@
       "ak74npd1"
     ],
     "Name": "Avtomat Kalashnikova",
-    "Calibre": "5.56",
+    "Calibre": "5.45",
     "Range": "The effective range of the AK74 is 500 metres.",
     "Designation": "AK74",
     "Description": "The AK74 is an upgraded variant of the AK47. It is similiar in nearly all aspects as the improved AKM, but uses smaller calibre ammunition. The range is signicantly increased because of this. The AK74 is the primary assault rifle in most former Soviet countries and first saw service in the Afghanistan-Russia conflict during the 1980s. It is said that during that conflict, the CIA put a $5000 reward on the first to deliver to them a fully functional AK74, as this was the first time they've been used in active service. The AK74U is a carbine version. The easiest way to identify an AK74 apart from an AK47 is a longer barrel and the addition of a flash eliminator.",
@@ -787,7 +805,7 @@
     ],
     "Attachments": "The AK74 can be fitted with a multitude of different attachments depending on the exact variant, of which there are dozens. Attachments include Bayonette, torch & UGL.",
     "Technical Data": {
-      "Calibre": "5.56mm",
+      "Calibre": "5.45mm",
       "Length": "943mm",
       "Weight (weapon)": "3.3kg",
       "Firing mode": "Semi-Automatic or Fully Automatic",
@@ -822,6 +840,9 @@
   "L81A2": {
     "NPDs": [
       "ctrnpd1"
+    ],
+    "Nationality": [
+      "UK"
     ],
     "Name": "Cadet Target Rifle",
     "Calibre": "7.62",
@@ -891,6 +912,9 @@
     "NPDs": [
       "sharpshooter1",
       "sharpshooter2"
+    ],
+    "Nationality": [
+      "UK"
     ],
     "Name": "Sharpshooter Rifle",
     "Calibre": "7.62",
@@ -1081,6 +1105,9 @@
     "NPDs": [
       "gpmg1"
     ],
+    "Nationality": [
+      "UK"
+    ],
     "Name": "GPMG",
     "Calibre": "7.62",
     "Range": "The range of the GPMG is 800 metres in the light role and 1800 metres in the sustained fire (tripod mounted) role.",
@@ -1191,7 +1218,7 @@
     "Calibre": "7.62",
     "Range": "The effective range of the RPK is 1000 metres.",
     "Designation": "RPK",
-    "Description": "The RPK is a modified AK47, used as a squad support weapon. It has a longer and thicker barrel than the AK47, allowed it to engage targets for longer periods at a rapid rate of fire. A tripod enables the weapon to sustain accurate fire out to 1000 metres. It is comparable to the now out of service LSW, albeit a larger calibre. It is fed via 40 round magazine or 75 round drum. The RPK-74 is the adapted version of the AK74 and is 5.56 in calibre.",
+    "Description": "The RPK is a modified AK47, used as a squad support weapon. It has a longer and thicker barrel than the AK47, allowed it to engage targets for longer periods at a rapid rate of fire. A tripod enables the weapon to sustain accurate fire out to 1000 metres. It is comparable to the now out of service LSW, albeit a larger calibre. It is fed via 40 round magazine or 75 round drum. The RPK-74 is the adapted version of the AK74 and is 5.45 in calibre.",
     "Drills": {
       "Normal Safety Precautions (NSPs)": [
         "Set the change lever to 'SAFE'",
@@ -1239,7 +1266,7 @@
     ],
     "Attachments": "The RPK has a threaded barrel to enable the attachment of a flash eliminator. The sights also have a windage knob for accurate engagement at longer distances. ",
     "Technical Data": {
-      "Calibre": "7.62mm (RPK74 5.56mm)",
+      "Calibre": "7.62mm (RPK74 5.45mm)",
       "Length": "1040mm",
       "Weight (weapon)": "5.3kg",
       "Firing mode": "Semi-Automatic or Fully Automatic",
@@ -1275,6 +1302,9 @@
     "Name": "Combat Shotgun",
     "NPDs": [
       "l74npd"
+    ],
+    "Nationality": [
+      "UK"
     ],
     "Calibre": "18.4",
     "Range": "Accurate buckshot fire up to 40 metres, the maximum effective range with solid shot is 130 metres.",
@@ -1365,6 +1395,9 @@
     "NPDs": [
       "asmnpd"
     ],
+    "Nationality": [
+      "UK"
+    ],
     "Calibre": "90",
     "Range": "The maximum range of the ASM is 600 metres with an effective range of 400 metres. ",
     "Designation": "ASM",
@@ -1448,6 +1481,9 @@
     "Name": "NLAW",
     "NPDs": [
       "nlawnpd"
+    ],
+    "Nationality": [
+      "UK"
     ],
     "Calibre": "150",
     "Range": "The maximum range of the NLAW is 600m for static targets and 400m for moving targets.",
@@ -1533,6 +1569,9 @@
     "NPDs": [
       "hmgnpd1",
       "hmgnpd2"
+    ],
+    "Nationality": [
+      "UK"
     ],
     "Calibre": ".50",
     "Range": "The HMG has a planning range of 1800 metres. The maximum range is considerable further (~7km), but the loss of accuracy makes in unviable at ranges beyond 2000m.",
@@ -1685,6 +1724,9 @@
       "gmgnpd1",
       "gmgnpd2",
       "gmgnpd3"
+    ],
+    "Nationality": [
+      "UK"
     ],
     "Calibre": "40",
     "Range": "The GMG has a maximum range of 2200 metres. Accurate fire against point targets out to 1500 metres and harrassing fire against area targets up to 2000 metres. ",
