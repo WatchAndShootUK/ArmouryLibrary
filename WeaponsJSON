@@ -749,6 +749,122 @@
       ]
     }
   },
+  "M4A1": {
+    "NPDs": [
+      "m4a1npd1",
+      "m4a1npd2"
+    ],
+    "Nationality": [
+      "UK"
+    ],
+    "Name": "M4A1",
+    "Calibre": "5.56",
+    "Range": "The effective range of the M4A1 is 500 metres.",
+    "Designation": "M4A1",
+    "Description": "The M4 series 5.56mm Carbine is a compact version of the M16A2 Rifle and is the standard issued rifle for the majority of the United States of America's military.",
+    "Drills": {
+      "Normal Safety Precautions (NSPs)": [
+        "Pull the cocking handle to the rear",
+        "Push in the bolt release catch",
+        "Push the cocking handle fully forward",
+        "Check the bolt, body and chamber are clear of any obstructions or rounds",
+        "If under instruction, wait for the words of command 'Ease Springs'",
+        "Operate the bolt release catch",
+        "Operate the trigger",
+        "Close the ejection opening"
+      ],
+      "Functions Test": [
+        "Cock the rifle",
+        "Set the safety catch to 'S'",
+        "Attempt to operate the trigger",
+        "Set the safety catch to 'Semi'",
+        "Operate the trigger and keep it depressed",
+        "Cock the rifle",
+        "Release the trigger and listen for the safety sear engaging",
+        "Set the safety catch to 'Auto'",
+        "Cock the rifle",
+        "Operate the trigger and keep it depressed",
+        "Cock the rifle, note the hammer stiking the firing pin",
+        "Release the trigger",
+        "Set the safety catch to 'Semi'",
+        "Close the ejection opening"
+      ],
+      "Load": [
+        "Unfasten ammunition pouch",
+        "Remove magazine from pouch and ensure the top round is seated correctly",
+        "Insert the magazine into the magazine housing",
+        "Fasten ammunition pouch"
+      ],
+      "Ready": [
+        "Check sights",
+        "Cock the rifle",
+        "Tap forward assist.",
+        "Set the safety catch to 'S'"
+      ],
+      "Unload": [
+        "Attempt to set the safety catch to 'S'",
+        "Operate the magazine release catch to remove the magazine",
+        "Place magazine away in ammunition pouch",
+        "Pull the cocking handle to the rear and push in the bolt release catch",
+        "Push the cocking handle forward and tily the rifle to the left",
+        "Inspect the bolt, body and chamber for any ammunition. Ensure there is no magazine fitted",
+        "Operate the bolt release catch",
+        "Set the safety catch to 'Semi'",
+        "Operate the trigger",
+        "Close the ejection opening"
+      ]
+    },
+    "Images": [
+      "m4a11",
+      "A US Army soldier fires his M4A1.",
+      "m4a12",
+      "A US Navy Seal wields his M4A1 with Grenade Launcher attachment.",
+      "m4a13",
+      "An M4A1 with ACOG weapon sight."
+    ],
+    "Sights": [
+      "ACOG TA31",
+      "Iron Sight"
+    ],
+    "Attachments": "The weapon can be mounted with the M203A2 Grenade Launcher, M320A1 Grenade Launcher or the M26 Modular Accessory Shotgun System.",
+    "Technical Data": {
+      "Calibre": "5.56mm",
+      "Length (Stock extended)": "838mm",
+      "Length (Stock folded)": "756mm",
+      "Barrel Length": "368mm",
+      "Weight (weapon)": "2.92kg",
+      "Firing mode": "Semi & Fully Automatic",
+      "Feed": "Magazine",
+      "Muzzle velocity": "910m/s",
+      "Rate of fire": "700–950rpm",
+      "Method of operation": "Gas"
+    },
+    "Stoppage Drills": {
+      "Immediate action": [
+        "Tilt the weapon to the left and look at the position of the bolt.",
+        "If the bolt is in any position other than fully to the rear, cock the rifle and push in the bolt release catch."
+      ],
+      "Loose magazine": [
+        "Ensure the magazine is fitted correctly",
+        "Operate bolt release catch",
+        "Resume firing"
+      ],
+      "Obstruction": [
+        "Remove the magazine",
+        "Clear the obstruction",
+        "Replace the magazine",
+        "Operate the bolt release catch",
+        "Forward assist",
+        "Resume firing"
+      ],
+      "Empty Magazine": [
+        "Change the magazine",
+        "Operate the bolt release catch",
+        "Forward assist",
+        "Resume firing"
+      ]
+    }
+  },
   "AK74": {
     "NPDs": [
       "ak74npd1"
