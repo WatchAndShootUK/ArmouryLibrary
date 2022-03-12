@@ -1425,7 +1425,7 @@
   },
   "DP27": {
     "NPDs": [
-      "rpknpd1"
+      "dp27npd1"
     ],
     "Nationality": [
       "Russia"
@@ -1434,11 +1434,12 @@
     "Calibre": "7.62",
     "Range": "The effective range of the DP-27 is 800 metres.",
     "Designation": "DP27",
-    "Description": "The Degtyaryov machine gun or DP-27 is a light machine gun firing the 7.62×54mm cartridge that was primarily used by the Soviet Union in WWII.",
+    "Description": "The Degtyaryov machine gun or DP-27 is a light machine gun firing the 7.62×54mm cartridge that was primarily used by the Red Army in WWII.",
     "Drills": {
       "Normal Safety Precautions (NSPs)": [
         "If fitted, remove the magazine",
         "Cock the gun",
+        "Inspect the body and chamber for any rounds",
         "Operate the trigger",
         "Reset the sights"
       ],
@@ -1456,6 +1457,7 @@
         "Pull back the rear sight to release the drum magazine",
         "Remove the drum magazine",
         "Cock the gun",
+        "Inspect the body and chamber for any rounds",
         "Operate the trigger",
         "Reset the sights",
         "Pick up any ejected rounds and place them into the magazine"
@@ -1463,9 +1465,9 @@
     },
     "Images": [
       "dp27top",
-      "The DP-27 was used extensively by the Red Army in WWII",
+      "The DP-27 seen in recent Russia Ukraine conflict",
       "dp27right",
-      "Ukrainian reservers using DP-27",
+      "Ukrainian reserves using DP-27",
       "dp27square",
       "DP 27 with distinctive drum magazine"
     ],
@@ -1474,7 +1476,7 @@
     ],
     "Attachments": "The ZP27 has no external attachments, however many attempts were made to modify the gun to accept belt and straight magazine ammunition.",
     "Technical Data": {
-      "Calibre": "7.62mm (RPK74 5.45mm)",
+      "Calibre": "7.62mm",
       "Length": "1270mm",
       "Weight (weapon)": "9.1kg",
       "Firing mode": "Fully Automatic",
@@ -1489,14 +1491,15 @@
       ],
       "Loose magazine": [
         "Slap the rear of the magazine firmly into position",
-        "Cock the rifle",
+        "Cock the gun",
         "Resume firing"
       ],
       "Obstruction": [
         "Remove the drum magazine",
+        "Cock the gun",
         "Clear the obstruction",
         "Replace the drum magazine",
-        "Cock the rifle",
+        "Cock the gun",
         "Resume firing"
       ],
       "Empty Magazine": [
