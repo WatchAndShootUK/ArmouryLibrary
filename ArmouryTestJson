@@ -1,0 +1,212 @@
+{
+  "2.1": {
+    "WEAPONS": {
+      "L131A1": {
+        "Name": "Glock",
+        "Nationality": [
+          "UK"
+        ],
+        "Calibre": "0.9",
+        "Range": 50,
+        "Designation": "L131A1",
+        "Description": "The L131A1 General Service Pistol is a compact, lightweight and accurate semi automatic pistol. It replaced the Browning and Sig Sauer 226 pistols that were previously in use. The L131A1, made by Glock is also referred to as the Glock-17. This is the standard issue pistol for the UK armed forces.",
+        "Drills": {
+          "Normal Safety Precautions (NSPs)": [
+            "Disengage the locking hood on the hoslter",
+            "Operate the holster lock and remove pistol from holster",
+            "Tilt the pistol the right and check to see if a magazine is fitted",
+            "If a magazine is fitted, press the magazine release catch and remove the magazine",
+            "Pull back the top slide and engage the slide stop lever",
+            "Check the body and chamber are clear of obstructions or rounds",
+            "If under instruction, wait for the words of command 'Return pistols'",
+            "Pull the top slide fully to the rear and allow to go forward under control",
+            "Ensure the muzzle is pointing in a safe direction",
+            "Operate the trigger",
+            "Return pistol to holster and engage the locking hood"
+          ],
+          "Functions Test": [
+            "Ensure no magazine is fitted",
+            "Cock the pistol",
+            "Operate the trigger",
+            "Cock the pistol under control, watch for the trigger returning to its forward position ",
+            "Check the trigger safety by applying lateral pressure to the trigger",
+            "Operate the trigger",
+            "Inspect magazines by inserting them into the pistol"
+          ],
+          "Load": [
+            "Draw pistol from holster",
+            "Remove magazine from pouch and ensure the top round is seated correctly",
+            "Insert the magazine into the magazine housing",
+            "Place pistol back into holster",
+            "Engage the locking hood"
+          ],
+          "Ready": [
+            "Draw pistol from holster",
+            "Cock the pistol",
+            "Ensure your trigger finger is resting on the trigger guard, not the trigger"
+          ],
+          "Unload": [
+            "Remove the magazine and place it away in your ammunition pouch",
+            "Pull back the top slide and engage the slide stop lever",
+            "Check the body and chamber are clear of obstructions or rounds",
+            "Operate the slide stop lever to allow the top slide to go forward",
+            "Operate the trigger",
+            "Place pistol into holster",
+            "Engage locking hood"
+          ]
+        },
+        "Images": [
+          "https://github.com/WatchAndShootUK/ArmouryLibrary/blob/df65307aaf63b9b5b13732678584c7066e5dad67/glock17.jpg",
+          "https://github.com/WatchAndShootUK/ArmouryLibrary/blob/df65307aaf63b9b5b13732678584c7066e5dad67/glock2.jpg",
+          "https://github.com/WatchAndShootUK/ArmouryLibrary/blob/df65307aaf63b9b5b13732678584c7066e5dad67/glockholstered.jpg"
+        ],
+        "Sights": [
+          "Iron Sight"
+        ],
+        "Attachments": "There are no attachments available for the Glock 17.",
+        "Technical Data": {
+          "Calibre": "9mm",
+          "Length": "186mm",
+          "Magazine Capacity": "17 rounds",
+          "Trigger pressure": "2.5kg",
+          "Operation": "Recoil",
+          "Weight": "0.625kg"
+        },
+        "Stoppage Drills": {
+          "Immediate Action": [
+            "Look at the position of the slide, it will be in one of the following positions: Slide fully forward, slide partially forward or slide at the rear. "
+          ],
+          "Slide Fully Forward (Loose Magazine)": [
+            "Ensure the magazine is fitted correctly",
+            "Cock the pistol in a rapid motion",
+            "Resume firing"
+          ],
+          "Slide Partially Forward (Obstruction)": [
+            "Take cover",
+            "Pull the slide back and engage the slide lock lever",
+            "Inspect the body and chamber, if there is an obstruction attempt to shake it free ",
+            "If the obstruction does not come free then remove the magazine and clear the obstruction",
+            "Replace the magazine",
+            "Release the slide by operating the slide stop lever",
+            "Resume firing"
+          ],
+          "Slide at the Rear (Empty Magazine)": [
+            "Take cover",
+            "Operate the magazine release catch to remove the magazine",
+            "Fit fresh magazine into the magazine housing",
+            "Release the slide by pulling it rearwards and releasing",
+            "Resume firing"
+          ]
+        },
+        "NPDs": [
+          "https://github.com/WatchAndShootUK/ArmouryLibrary/blob/df65307aaf63b9b5b13732678584c7066e5dad67/glock1.jpg"
+        ]
+      }
+    },
+    "SIGHTS": {
+      "Iron Sight": {
+        "Image": "ironsights",
+        "Description": "An iron sight consist of a rear aperture and a fore sight. By aligning the blade of the fore sight with the rear opening the weapon will point at the target. ",
+        "Magnification": "Nil"
+      },
+      "SUSAT": {
+        "Image": "susat",
+        "Description": "The Sight Unit Small Arms, or SUSAT, is a telescopic sight with tritium-powered illumination, utilised at dusk or dawn. The full name of the current model is the SUSAT L12A1.",
+        "Magnification": "x4",
+        "Weight": "417g",
+        "Length": "145mm",
+        "Range settings": "300-800 metres",
+        "Field of view": "10 degrees (177 mils)"
+      },
+      "ACOG TA31": {
+        "Image": "acog31",
+        "Description": "Manufactured by Trijicon, the Advanced Combat Optical Gunsight (ACOG) TA01 is an improvement on the previously used SUSAT. ",
+        "Magnification": "x4",
+        "Weight": "396 g",
+        "Length": "203 mm"
+      },
+      "LDS": {
+        "Image": "lds",
+        "Description": "The Lightweight Combat Optical Daysight (LDS) by ELCAN is a rugged sight designed for 5.56 NATO standard light arms (e.g. SA80, C7, M4). The LDS utilizes the superior optics and mechanics of the commercially available SpecterDR by ELCAN. The SpecterOS4x is a fixed 4x magnification optical sight with a large exit pupil and long 70mm eye relief. The bright, high resolution 4-power optics provide optimum target acquisition and identification.",
+        "Magnification": "x4",
+        "Weight": "XXX",
+        "Length": "YYY"
+      },
+      "Maxikite 2": {
+        "Image": "maxikite",
+        "Description": "Designed by Excelitas, the Maxikite II is a weapon mounted image intensifier designed to be mounted on long range rifles and support weapons. It provides vision out to 4500m, dependant on millilux levels.",
+        "Night vision type": "Image Intensifier",
+        "Magnification": "x5",
+        "Power source": "2 x AA batteries",
+        "Range": "600-4500m",
+        "Field of view": "6.8deg",
+        "Weight": "1500g",
+        "Battery life": "100+ hours",
+        "Length": "400mm"
+      },
+      "Kite (CWS)": {
+        "Image": "kite",
+        "Description": "The Kite, made by Excelitas, is an image intensifying weapon sight designed for use on small arms weapons. The Kite II, designated as the CWS in the British Army has been replaced by the much improved Maxikite.",
+        "Night vision type": "Image Intensifier",
+        "Magnification": "x4",
+        "Range": "500-3000m",
+        "Weight": "1kg",
+        "Battery life": "100+ hours",
+        "Length": "210mm"
+      },
+      "ACOG TA648": {
+        "Image": "acog648",
+        "Description": "The ACOG TA648 is issued with the Sharpshooter rifle. The sight was designed for use with machine guns engaging targets beyond 800 metres. It has better magnification than the SA80 variant and is fitted with a red dot Close Quarter Battle (CQB) sight.",
+        "Magnification": "6x48",
+        "Weight": "513.1 g",
+        "Length": "152.4 mm"
+      },
+      "ACOG TA47": {
+        "Image": "acog47",
+        "Description": "The ACOG TA47 is a lightweight and compact sight made by Trijicon. It has x2 magnification and is robust enough to endure the rigours required for an infantry battle sight. It is used on the NLAW and is zeroed during manufacture, meaning the sight never has to be adjusted. ",
+        "Magnification": "2.5x20"
+      },
+      "Magnum Universal Night Sight (MUNs)": {
+        "Image": "muns",
+        "Description": "The MilSight S135 MUNS is a high-resolution clip-on night vision weapon sight that mounts on any MIL-STD-1913 Picatinny rail interface forward of an existing scope, adding night vision capabilities to daytime target acquisition platforms. The sight allows snipers to detect and recognize man-size targets more than 800 meters. Designed for medium and long-range engagements, S135 MUNS can image IR pointers to allow target pointing and handoff with teammates for rapid, coordinated engagement.",
+        "Magnification": "Up to x20",
+        "Night vision type": "Image Intensifier",
+        "Field of view": "10 deg",
+        "Range (dismounted target)": "1350-1730m",
+        "Range (mounted target)": "3150-4070m",
+        "Weight": "1.4kg",
+        "Length": "220mm",
+        "Battery life": "50 hours"
+      },
+      "C2A2 Support Weapon Sight": {
+        "Image": "c2a2",
+        "Description": "Sight Unit C2A2 Cased is a rugged sighting system designed for use with mortars and machine guns in the indirect and direct role. The Sight Unit C2A2 Cased system consists of a C2A1 Sight Unit, lightweight synthetic sight case and accessories."
+      },
+      "Telescopic Sight": {
+        "Image": "telsight",
+        "Description": "The telescopic sight is a proven sight as used on the G36 rifle that is in service in the German army. The optics are made by the German company, Carl Zeiss Optronics. The ASM sight has a very rigid mounting to the launch tube, which is fully aligned during manufacture."
+      }
+    },
+    "MISC": {
+      "THEMES": {
+        "MULTICAM": [
+          "colour1",
+          "colour1",
+          "colour1"
+        ],
+        "DESERT": [
+          "colour1",
+          "colour1",
+          "colour1"
+        ]
+      },
+      "LINKS": {
+        "APPLE_STORE": "",
+        "GOOGLE_STORE": "",
+        "INSTAGRAM": "",
+        "FACEBOOK": "",
+        "PRIVACY_POLICY": ""
+      }
+    }
+  }
+}
