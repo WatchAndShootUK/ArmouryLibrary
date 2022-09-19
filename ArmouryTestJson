@@ -1,5 +1,5 @@
 {
-  "2.2": {
+  "2.3": {
     "WEAPONS": {
       "L131A1": {
         "Name": "Glock 17",
@@ -7,7 +7,7 @@
           "UK"
         ],
         "Calibre": "0.9",
-        "Icon": "https://github.com/WatchAndShootUK/ArmouryLibrary/blob/main/l131a1.png",
+        "Icon": "https://github.com/WatchAndShootUK/ArmouryLibrary/blob/main/l131a1.png?raw=true",
         "Range": 50,
         "Designation": "L131A1",
         "Description": "The L131A1 General Service Pistol is a compact, lightweight and accurate semi automatic pistol. It replaced the Browning and Sig Sauer 226 pistols that were previously in use. The L131A1, made by Glock is also referred to as the Glock-17. This is the standard issue pistol for the UK armed forces.",
@@ -57,9 +57,9 @@
           ]
         },
         "Images": [
-          "https://github.com/WatchAndShootUK/ArmouryLibrary/blob/df65307aaf63b9b5b13732678584c7066e5dad67/glock17.jpg",
-          "https://github.com/WatchAndShootUK/ArmouryLibrary/blob/df65307aaf63b9b5b13732678584c7066e5dad67/glock2.jpg",
-          "https://github.com/WatchAndShootUK/ArmouryLibrary/blob/df65307aaf63b9b5b13732678584c7066e5dad67/glockholstered.jpg"
+          "https://github.com/WatchAndShootUK/ArmouryLibrary/blob/df65307aaf63b9b5b13732678584c7066e5dad67/glock17.jpg?raw=true",
+          "https://github.com/WatchAndShootUK/ArmouryLibrary/blob/df65307aaf63b9b5b13732678584c7066e5dad67/glock2.jpg?raw=true",
+          "https://github.com/WatchAndShootUK/ArmouryLibrary/blob/df65307aaf63b9b5b13732678584c7066e5dad67/glockholstered.jpg?raw=true"
         ],
         "Sights": [
           "Iron Sight"
