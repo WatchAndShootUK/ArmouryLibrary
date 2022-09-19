@@ -2,8 +2,8 @@
   "2.1": {
     "WEAPONS": {
       "L131A1": {
-        "Name": "Glock",
-        "Nationality": [
+        "Name": "Glock 17",
+        "Users": [
           "UK"
         ],
         "Calibre": "0.9",
